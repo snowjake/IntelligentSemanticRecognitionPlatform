@@ -1,0 +1,2 @@
+class UserSimulator(object):
+    pass
