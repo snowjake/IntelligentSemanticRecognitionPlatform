@@ -13,7 +13,10 @@ def test(task,intention,slot):
     global glodal_dialog
     if task=='cmd':
         cmddia=Dialog(task)
-        action='done'
+        if slot['cmdValue'] in ['PREVIOUSPAGE','NEXTPAGE']:
+            action=slot['cmdValue']
+        else:
+            action='done'
         state,values=cmddia.DM.which_intention(intention,slot)
         return ({'state': state, 'slots': values, 'action': action})
     elif task!=glodal_task1:
@@ -21,6 +24,7 @@ def test(task,intention,slot):
         glodal_dialog=Dialog(task)
     state,values=glodal_dialog.DM.which_intention(intention,slot)
     action=glodal_dialog.DM.select_action(state)
+    print(glodal_dialog.DM.state_tacker.current)
     return ({'state':state,'slots':values,'action':action})
 flag=1#开始TCP监听
 while flag:

@@ -9,7 +9,7 @@ class DM:
         if self.task == 'replay':
             self.dictory = Dictionry(self.task)
             # self.state_tacker=state_tacker(self.dictory.dictory)
-            self.wights = 'mydiaaaaa.h5'
+            self.wights = 'replay.h5'
             self.state_tacker = state_tacker(self.dictory.dictory)
             self.naction = len(self.state_tacker.state)
             self.model = self.model(self.wights, self.naction)
@@ -63,10 +63,10 @@ class DM:
     def judge_end(self, state):
         flag = 1
         if self.task == 'replay':
-            if (state[0] == 1 and state[1] == 1 and state[2] == 1):
+            if (state[0] == 1 and state[1] == 1 and state[2] == 1 and state[3]==1):
                 flag = 0
         if self.task == 'order':
-            if (state[0] == 1):
+            if (state[0] == 1 and state[1] == 1 and state[2] == 1 and state[3]==1):
                 flag = 0
         if self.task == 'live':
             if (state[0] == 1):
