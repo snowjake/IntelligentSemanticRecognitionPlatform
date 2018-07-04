@@ -4,8 +4,8 @@ class NLU(object):
 
     def raw_to_slots(self, raw_text):
         return {
-        'task_id': 1,
-        'slots': [],
-        'slots_values': [],
+        'task_id': 2,
+        'slots': [raw_text],
+        'slots_values': ['浙江卫视'],
         'intent': 'inform'
         }
