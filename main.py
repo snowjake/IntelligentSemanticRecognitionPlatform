@@ -16,7 +16,7 @@ def dialog():
         config = {
             'nlu': NLU(),
             'nlg': NLG(),
-            'terminal_state': [1]
+            # 'terminal_state': [1]
         }
         task_dict[device_id] = TaskManagement(config=config)
     task_management = task_dict[device_id]
@@ -24,10 +24,6 @@ def dialog():
     if terminate:
         task_dict.pop(device_id)
     return reply
-
-@app.route('/')
-def hello_world():
-    return 'ddddd'
 
 
 if __name__ == '__main__':

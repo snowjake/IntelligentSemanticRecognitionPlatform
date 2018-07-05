@@ -35,5 +35,6 @@ class TaskManagement(object):
             action, terminate = self.task.step(self.task.format_slots(nlu_outputs))
             return self.nlg.generate_sentence(action=action, terminate=terminate, task_id=self.task.task_id), terminate
         elif nlu_outputs['task_id'] == 4:
+
             pass
 
