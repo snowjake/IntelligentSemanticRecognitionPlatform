@@ -1,0 +1,642 @@
+你给力一点,O O O O O,模糊,其他
+谁大一点,O O O O,模糊,其他
+声音大一点,B_command I_command I_command I_command I_command,模糊,指令
+我想看江苏卫视昨天我是特种兵之火凤凰,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_programname I_programname I_programname I_programname I_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看昨天CCTV一的新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV一昨天的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天中央一台的新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+打开中央台广播,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看2O11年7月17日瑞安一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV一台昨天的焦点访谈,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看3月3号8:59迈乐学堂,O O O B_date I_date I_date I_date B_time I_time I_time I_time B_programname I_programname I_programname I_programname,回看,告知
+我想看江苏卫视的非诚勿扰,O O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,直播,告知
+我想看前天中央一台的新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看2011年7月17日中央一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天CCTV的新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看中央一台昨天的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天江苏卫视的火凤凰,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,回看,告知
+我想看女人不坏,O O O B_programname I_programname I_programname I_programname,点播,告知
+我想看中央一台12:37的今日说法,O O O B_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV的今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV一的新闻点播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看3月2号的,O O O B_date I_date I_date I_date O,模糊,其他
+我要看昨天的CCTV一套新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看直播,O O O O O,模糊,其他
+我要看2018年3月1号CCTV的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+为什么我想看湖南卫视,O O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央一套2017年7月18日的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我看错了李在真的诗泰安电视台,O O O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看2012年3月1号的CCTV新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV1昨天的今日说法,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天的CCTV1的今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV1今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看中央一台2017年7月18日的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV音乐,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看2017年7月18日中央一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname B_channelname B_channelname B_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天CCTV1的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname B_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看2017年7月18日八一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天的CCTV的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+声音小一点,B_command I_command I_command I_command I_command,模糊,指令
+我想看昨天的CCTV的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看3月16日的新闻联播,O O O B_date I_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+2月24号的湖南卫视节目单,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看CCTV14,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我很喜欢看中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+今晚月,O O O,模糊,其他
+我想看湖南卫视高清频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+2月24号的湖南卫视,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+看2月24号的湖南卫视,O B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+节目单,O O O,模糊,其他
+我想看江苏卫视的昆仑决,O O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,点播,告知
+回看昨天晚上安徽频道的节目,O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+帮我查一下今天的日程,O O O O O O O O O O,模糊,其他
+央视微,O O O,模糊,其他
+我喜欢看中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天的焦点访谈,O O O B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+学校明天9点的李晨提醒,O O O O O O O O O O O,模糊,其他
+还有什么节目可以听,O O O O O O O O O,模糊,其他
+中央一套直播,B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+播放直播,B_command I_command I_command I_command,模糊,指令
+我要看3月10号七点的新闻联播,O O O B_date I_date I_date I_date I_date B_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天湖南卫视的节目,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看3月3日优漫卡通九,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看3月3日优漫卡通频道5:10的熊出没,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time O B_programname I_programname I_programname,回看,告知
+昨晚,O O,模糊,其他
+我想看昨天的今日说法,O O O B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+回看昨天晚上安徽卫视的节目,O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看昨天12点三十七分的中央一套,O O O B_date I_date B_time I_time I_time I_time I_time I_time I_time O B_channelname I_channelname I_channelname I_channelname,回看,告知
+直播中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+进入回看,O O O O,回看,告知
+我想看中央六台今天8点钟的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_time I_time I_time O O O,回看,告知
+我想看昨天的中央一台,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看昨天晚上中央一台七点的新闻联播,O O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname B_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+你好中央五台理疗仪,O O B_channelname I_channelname I_channelname I_channelname O O O,直播,告知
+我想看3月4号六点的熊出没,O O O B_date I_date I_date I_date B_time I_time O B_programname I_programname I_programname,回看,告知
+我想看3月3号优漫卡通,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+10月电影,O O O B_category I_category,模糊,其他
+我想看3月3日江苏影视1:35的九九,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time O B_programname I_programname,回看,告知
+节目列表,O O O O,模糊,其他
+现在在重点催,O O O O O O,模糊,其他
+我想看CCTV新闻频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV5的NBA,O O O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,直播,告知
+我想看昨天南京新闻频道环球资讯,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+你现在打车,O O O O O,模糊,其他
+爱你这个周末,O O O O O O,模糊,其他
+你今晚更新版本吗,O O O O O O O O,模糊,其他
+嗯3月5号3:16,O B_date I_date I_date I_date B_time I_time I_time I_time,模糊,其他
+我想看3月3日,O O O B_date I_date I_date I_date,模糊,其他
+刚刚我几台有声音的呀,O O O O O O O O O O,模糊,其他
+我想看昨天中央一台七点新闻新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O O O O B_programname I_programname I_programname I_programname,回看,告知
+进入理财快报,O O B_programname I_programname I_programname I_programname,点播,告知
+上个星期,O O O O,模糊,其他
+昨天刚刚开始,O O O O O O,模糊,其他
+我想看内蒙古新闻广播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开福建都市生活,O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看福建东南广播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+周末,O O,模糊,其他
+回看中央一套,O O B_channelname I_channelname I_channelname I_channelname,回看,告知
+看直播,O O O,模糊,其他
+我想看福建都市生活,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看湖北经济广播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看中央一套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+看一下节目单,O O O O O O,模糊,其他
+我想看节目单,O O O O O O,模糊,其他
+给我放陕西新闻广播,O O O B_programname I_programname I_programname I_programname I_programname I_programname,点播,告知
+节目,O O,模糊,其他
+打开理财快报,O O B_programname I_programname I_programname I_programname,点播,告知
+看看节目单,O O O O O,模糊,其他
+播放时间,O O O O,模糊,其他
+综艺节目,B_category I_category I_category I_category,模糊,其他
+10月的电影,O O O O B_category I_category,模糊,其他
+我想看3月9号,O O O B_date I_date I_date I_date,模糊,其他
+2015年10月的电影,B_date I_date I_date I_date I_date I_date I_date I_date O B_category I_category,模糊,其他
+2010年10月的电视剧,B_date I_date I_date I_date I_date I_date I_date I_date O B_category I_category I_category,模糊,其他
+打开电视直播,O O O O O O,模糊,其他
+有中央一套吗,O O O O O O,模糊,其他
+韩国最新的综艺节目,O O O O O B_category I_category I_category I_category,模糊,其他
+10月的电视剧,O O O O B_category I_category I_category,模糊,其他
+我想看中央台广播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看CCTV12,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+给我打开电视直播,O O O O O O O O,模糊,其他
+喜剧电影,B_type I_type B_category I_category,模糊,其他
+2010年10月的电影,B_date I_date I_date I_date I_date I_date I_date I_date O B_category I_category,模糊,其他
+我要看今天中午的非诚勿扰,O O O B_date I_date I_date I_date O B_programname I_programname I_programname I_programname,模糊,其他
+哪个台在放青春电影,O O O O O B_type I_type B_category I_category,模糊,其他
+我要看昨天的东方卫视节目,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+昨天的北京卫视节目,B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+我收藏节目,O O O O O,模糊,其他
+直播穿越,O O O O,模糊,其他
+回看节目单,O O O O O,模糊,其他
+中午的节目,O O O O O,模糊,其他
+回看安徽卫视,O O B_channelname I_channelname I_channelname I_channelname,回看,告知
+天气视频通话,O O O O O O,模糊,其他
+播理财快报,O B_programname I_programname I_programname I_programname,点播,告知
+我想看回看节目,O O O O O O O,模糊,其他
+2015年10月的电视剧,B_date I_date I_date I_date I_date I_date I_date I_date O B_category I_category I_category,模糊,其他
+理财快报,B_programname I_programname I_programname I_programname,点播,告知
+打开昨天CCTV一的新闻联播,O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+放中央一套请拨,O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+王晶2010年8月的电影,B_actor I_actor B_date I_date I_date I_date I_date I_date I_date O B_category I_category,模糊,其他
+看下幼儿教育暂停,O O B_programname I_programname I_programname I_programname B_command I_command,点播,告知
+我想看直播频道,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+体彩快报打开理财快报,B_programname I_programname I_programname I_programname O O B_programname I_programname I_programname I_programname,点播,告知
+我想看湖南卫视昨天的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date O O O,回看,告知
+我想看安徽卫视第三方节目,O O O B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname I_programname,直播,告知
+打开回看,O O O O,模糊,其他
+我想看湖南卫视今天8点的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_time I_time O O O,回看,告知
+我想看CCTV的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,直播,告知
+打开最近花悸,O O B_programname I_programname I_programname I_programname,点播,告知
+我想看CCTV5的体育频道不对,O O O B_channelname I_channelname I_channelname I_channelname I_channelname O O O O O O O,直播,告知
+打开CCTV新闻联播,O O B_channelname I_channelname I_channelname I_channelname O O O O,直播,告知
+我想要看CCTV一的新闻联播,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname O O O O O,直播,告知
+我想看昨天的江苏频道的非诚勿扰,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+打开地方台放不,O O O O O O O,模糊,其他
+我想看昨天的新闻联播,O O O B_date I_date O B_programname I_programname I_programname I_programname,模糊,其他
+老年之声广播,B_programname I_programname I_programname I_programname I_programname I_programname,点播,告知
+回看安徽卫视昨晚的节目,O O B_channelname I_channelname I_channelname I_channelname B_date I_date O O O,回看,告知
+回看中央一套昨晚的节目,O O B_channelname I_channelname I_channelname I_channelname B_date I_date O O O,回看,告知
+我想看3月1O号6:43中央11频道的一路欢笑,O O O B_date I_date I_date  I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV一联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname,回看,告知
+我想看昨天晚上7点钟湖南卫视新闻联播,O O O B_date I_date B_time I_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看30号0:43的综艺喜乐汇,O O O B_date I_date  I_date B_time I_time I_time I_time O B_programname I_programname I_programname I_programname I_programname,回看,告知
+切换到湖南金鹰卡通,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看昨天湖南卫视大丈夫,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname,回看,告知
+我想看中央二频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月9号2:25的CCTV3频道的太行英雄传,O O O B_date I_date I_date I_date B_time I_time I_time I_time O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看早上8点中央一套,O O O B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看30号5:37中央三频道的中国民歌大会,O O O B_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号中央一台的七点,O O O B_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_time I_time,回看,告知
+我想看CCTV高清频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月10号7:14中央三频道的文化十分,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号6:43的一路欢笑CCTV11,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time O B_programname I_programname I_programname I_programname B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看22点,O O O B_time I_time I_time,模糊,其他
+我想看3月10号一台频道,O O O B_date I_date I_date I_date I_date B_channelID I_channelID O O,回看,告知
+我想看CCTV33月9号2:25的太行英雄传,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date B_time I_time I_time I_time O B_programname I_programname I_programname  I_programname I_programname,回看,告知
+我要看昨天上午的CCTV一频道的,O O O B_date I_date B_time I_time O B_channelname I_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看CCTV3频道3月9号2:25的太行英雄传,O O O B_channelname I_channelname I_channelname I_channelname I_channelname O O B_date I_date I_date I_date B_time I_time I_time I_time O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号4:13中央三频道的综艺喜乐汇,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname O O O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我要看3月10号七点整的中央一台的新闻联播,O O O B_date I_date I_date I_date I_date B_time I_time O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+你好我想看昨天晚上湖南卫视的节目,O O O O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看昨天湖南卫视的快乐大本营,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看女人不坏,O O O B_programname I_programname I_programname I_programname,点播,告知
+我要看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天中央电视台的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看2018年2月1日CCTV新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV12月9号的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我要看2018年2月1日央视新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我要看湖南卫视1月1日的春晚,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date O B_programname I_programname,回看,告知
+小翼小翼我要看1月1日央视直播,O O O O O O O O O O O B_channelname I_channelname O O,直播,告知
+我要看2018年1月1日湖南卫视,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+我要看2月8日央视新闻联播,O O O B_date I_date I_date I_date B_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我要看2018年2月1日新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_programname I_programname I_programname I_programname,回看,告知
+我要看2月8号CCTV1新闻联播,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的中央一台的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看中央六套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看江苏卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看湖南卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV一,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看影视频道,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV2,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央,O O O B_channelname I_channelname,直播,告知
+我想看CCTV一,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央五套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+小翼小翼我要看中央五套,O O O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你好我想看CCTV一昨天的新闻联播,O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看2011年7月17日中央一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV7,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看中央一,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看江苏卫视多,O O O B_channelname I_channelname I_channelname I_channelname O,直播,告知
+我要看昨天CCTV的新闻联播,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+中央13台,B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+中央一套高清,B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看电视,O O O O O,直播,告知
+我想看中央一台昨天的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+湖北卫视,B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天江苏卫视的火凤凰,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,回看,告知
+我要看湖南卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天CCTV一的,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O,回看,告知
+我要看CCTV6,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开电影频道,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开湖南卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看资讯台,O O O B_channelname I_channelname I_channelname,直播,告知
+小翼小翼我想看CCTV一,O O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看女人不坏,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央十套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央五台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+资讯台,B_channelname I_channelname I_channelname,直播,告知
+我想看音乐台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看CCTV十二十二点37分的今日说法,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time I_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+打开CCTV,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开文艺台,O O B_channelname I_channelname I_channelname,直播,告知
+我想看中央一台昨天,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date,回看,告知
+我想看中央一台12:37的今日说法,O O O B_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+CCTV音乐,B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天的CCTV的今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+看湖南卫视,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天的CCTV一的新闻点播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天的CCTV一套新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+你好我想看中央五台,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看直播,O O O O O,直播,告知
+我想看CCTV5,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央一台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看2018年3月1号CCTV的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我看湖南卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想我想看湖南卫视,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+为什么我想看湖南卫视,O O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+天天精选歌,O O O O O,模糊,其他
+打开v音乐,O O B_channelname I_channelname I_channelname,直播,告知
+我要看CCTV5,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央一套2017年7月18日的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我看错了李在真的诗泰安电视台,O O O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+TVB,B_channelname I_channelname I_channelname,直播,告知
+我想看2012年3月1号的CCTV新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+中央五套,B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV1昨天的今日说法,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天的CCTV1的今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV1今日说法,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+中央一套,B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央一台2017年7月18日的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV音乐,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看2017年7月18日中央一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天CCTV1的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看喜剧,O O O B_category I_category,点播,告知
+我想看2017年7月18日八一台的新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV12点37分的今日说法,O O O B_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time I_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+我要看昨天的CCTV的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+查看昨天的CCTV的新闻联播,O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+13我想看湖南卫视,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+2月24号的湖南卫视节目单,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+打开中央一台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV14,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+一六台,B_channelname I_channelname I_channelname,直播,告知
+2月27号的湖南卫视节目单,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+2月25号的湖南卫视节目单,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+电视,O O,模糊,其他
+小翼小翼打开CCTV一,O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+地方台,O O O,模糊,其他
+我要看ATV,O O O B_channelname I_channelname I_channelname,直播,告知
+打开直播,O O O O,直播,告知
+看芒果台,O B_channelname I_channelname I_channelname,直播,告知
+我很喜欢看中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+昨天中央一套,B_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+打开地方台,O O O O O,模糊,其他
+昨天中央一套台频道,B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+打开新闻轮播,O O B_programname I_programname I_programname I_programname,点播,告知
+我要看凤凰卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看湖南卫视高清频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+2月24号的湖南卫视,B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+直播,O O,直播,告知
+湖南卫视,B_channelname I_channelname I_channelname I_channelname,直播,告知
+看2月24号的湖南卫视,O B_date I_date I_date I_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+应用山酒店建国想看湖南卫视台,O O O O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+去中央五台,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看江苏卫视的昆仑决,O O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,回看,告知
+我想看经济台,O O O B_channelname I_channelname I_channelname,直播,告知
+我要看江苏卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+回看昨天晚上安徽频道的节目,O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看文艺台,O O O B_channelname I_channelname I_channelname,直播,告知
+央视微,O O O,模糊,其他
+我要看汽车音乐频道,O O O O O O O O O,直播,告知
+播放中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我喜欢看中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开中央台列表,O O O O O O O,直播,告知
+打开中央台,O O B_channelname I_channelname I_channelname,直播,告知
+我要听珠江台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看中央三套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看东方卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+农场,O O,模糊,其他
+看湖南卫视高清台,O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开交通台,O O O O O,直播,告知
+打开播CCTV,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要听湖南台,O O O B_channelname I_channelname I_channelname,直播,告知
+你好交通台,O O O O O,直播,告知
+点中央台,O B_channelname I_channelname I_channelname,直播,告知
+中央一套直播,B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+给我看CCTV6,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放直播,O O O O,直播,告知
+是不是打了你这个美女聊天不晓得云南四套,O O O O O O O O O O O O O O O O O O O,模糊,其他
+能不能看看中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV4,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天湖南卫视的节目,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+打开音乐台,O O O O O,直播,告知
+你好中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开综合台,O O O O O,直播,告知
+我想看昨天江苏影视明天十分的九九,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O O B_time I_time O B_programname I_programname,回看,告知
+我想看交通台,O O O O O O,直播,告知
+这种情况我要看CCTV一,O O O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月3日优漫卡通,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看地方台,O O O O O O,直播,告知
+打开经济台,O O O O O,直播,告知
+我想看3月3日优漫卡通频道5:10的熊出没,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time O B_programname I_programname I_programname,回看,告知
+你好打开中央台,O O O O B_channelname I_channelname I_channelname,直播,告知
+你好我想听江西都市,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看综合台,O O O O O O,直播,告知
+放高清,O O O,模糊,其他
+回看昨天晚上安徽卫视的节目,O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+打开漯河台,O O B_channelname I_channelname I_channelname,直播,告知
+我想看昨天12点三七分的中央一套,O O O B_date I_date B_time I_time I_time I_time I_time I_time O B_channelname I_channelname I_channelname I_channelname,回看,告知
+直播中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央六台今天8点钟的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_time I_time I_time O O O,回看,告知
+我想看昨天的中央一台,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname,回看,告知
+贝尔,O O,模糊,其他
+我想看昨天晚上中央一台七点的新闻联播,O O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname I_time I_time O B_programname I_programname I_programname I_programname,回看,告知
+你好中央五台理疗仪,O O B_channelname I_channelname I_channelname I_channelname O O O,直播,告知
+我想看3月3号优漫卡通,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看3月3日江苏影视1:35的九九,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname B_time I_time I_time I_time O B_programname I_programname,回看,告知
+打开湖南金鹰,O O O O O O,直播,告知
+我要看浙江卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV新闻频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开湖南交通频道,O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+今天中央台,O O B_channelname I_channelname I_channelname,模糊,其他
+打开云南卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想听四川台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看CCTV5的NBA,O O O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname,回看,告知
+我想看昨天南京新闻频道环球资讯,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+刚刚我几台有声音的呀,O O O O O O O O O O,模糊,其他
+财经,O O,模糊,其他
+进入理财快报,O O O O O O,模糊,其他
+打开江西卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看广东卫视高清频道,O O O B_channelname I_channelname I_channelname I_channelname O O O O,直播,告知
+频道,O O,模糊,其他
+网络,O O,模糊,其他
+我要看东方卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看江苏台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想听浙江台,O O O B_channelname I_channelname I_channelname,直播,告知
+北京酒吧,O O O O,模糊,其他
+你好CCTV一,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想听湖北台,O O O B_channelname I_channelname I_channelname,直播,告知
+那一套,O O O,模糊,其他
+我想听内蒙古新闻,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开内蒙古蒙语,O O O O O O O,模糊,其他
+打开福建都市生活,O O O O O O O O,直播,告知
+我喜欢中央一套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+搜索中央一套,B_command I_command O O O O,模糊,指令
+我要看芒果卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+回看中央一套,O O B_channelname I_channelname I_channelname I_channelname,回看,告知
+看直播,O O O,直播,告知
+我想看福建都市生活,O O O O O O O O O,直播,告知
+我要看中央一套高清,O O O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+我想中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看纪录片,O O O B_category i_category i_category,点播,告知
+切换到中央五套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开荔枝台高清,O O B_channelname I_channelname I_channelname O O,直播,告知
+打开湖北台,O O B_channelname I_channelname I_channelname,直播,告知
+打开理财快报,O O O O O O,直播,告知
+能不能播放中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看ATV5,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+放中央15套,O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+给2192台电话,O O O O O O O O,模糊,其他
+广传,O O,模糊,其他
+你好我想听四川台,O O O O O B_channelname I_channelname I_channelname,直播,告知
+动作,O O,模糊,其他
+我的那种方式的微电影频道,O O O O O O O O O O O O,模糊,其他
+我看江苏卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+给我放央视农业频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想听山东台,O O O B_channelname I_channelname I_channelname,直播,告知
+我要看CCTV9,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+便民服务,O O O O,模糊,其他
+我要看CCTV7,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看CCTV3,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+你好我想看CCTV一,O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想要看中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+点播,O O,点播,告知
+我想看芒果卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看CCTV4,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+你好东方卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开电视直播,O O O O O O,直播,告知
+播101频道,O B_channelID I_channelID I_channelID I_channelID I_channelID,直播,告知
+我要看安徽卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+有中央一套吗,O O O O O O,模糊,其他
+能不能看中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+二频道,O O O,模糊,其他
+你好我要看CCTV一,O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+看中央一套,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+给不给播放中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV8,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+看芒果台,O B_channelname I_channelname I_channelname,直播,告知
+我想看安徽卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看湖南卫视啊,O O O B_channelname I_channelname I_channelname I_channelname O,直播,告知
+我很喜欢中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播一下东方卫视高清频道,O O O B_channelname I_channelname I_channelname I_channelname O O O O,直播,告知
+汤我想看卫视,O O O O O O,模糊,其他
+打开北京卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看频道,O O O O O,直播,告知
+能不能中央一套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看CCTV12,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+给我打开电视直播,O O O O O O O O,直播,告知
+看喜剧电影,O B_type I_type I_type I_type,点播,告知
+第一频道,O O O O,直播,告知
+有没有中央一套,O O O O O O O,模糊,其他
+我要看江南卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我看18频道,O O B_channelID I_channelID I_channelID I_channelID,直播,告知
+打开湖北台,O O B_channelname I_channelname I_channelname,直播,告知
+帮我打开CCTV一高清,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname O O,直播,告知
+我要看10频道,O O O B_channelID I_channelID I_channelID I_channelID,直播,告知
+快打开北京卫视高清,O O O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+马上调到广东卫视,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看20频道,O O O B_channelID I_channelID I_channelID I_channelID,直播,告知
+IPTV,O O O O,模糊,其他
+电视剧频道,O O O O O,直播,告知
+我要看安徽卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想调资讯台,O O O O O O,直播,告知
+我想调202频道,O O O B_channelID I_channelID I_channelID I_channelID I_channelID,直播,告知
+我想看频道,O O O O O,直播,告知
+我们想看东方卫视频道,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看央视五套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你好北京卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+一频道,O O O,直播,告知
+我想看央视七套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+点综合台,O O O O,直播,告知
+调文艺台,O O O O,直播,告知
+播放音乐台,O O O O O,直播,告知
+我要看昨天的东方卫视节目,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O O,回看,告知
+昨天的北京卫视节目,B_date I_date O B_channelname I_channelname I_channelname I_channelname O O,回看,告知
+打开经济台,O O O O O,直播,告知
+打开价格服务,O O O O O O,模糊,其他
+陕西,O O,模糊,其他
+播放CCTV一,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+番茄台,B_channelname I_channelname I_channelname,直播,告知
+回看安徽卫视,O O B_channelname I_channelname I_channelname I_channelname,回看,告知
+播放湖南台,O O B_channelname I_channelname I_channelname,直播,告知
+播35频道,O B_channelID I_channelID I_channelID I_channelID,直播,告知
+播理财快报,O O O O O,直播,告知
+打开综艺台,O O O O O,直播,告知
+我要看荔枝台,O O O B_channelname I_channelname I_channelname,直播,告知
+我要看中央五套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+看陕西台,O B_channelname I_channelname I_channelname,直播,告知
+打开浙江台,O O B_channelname I_channelname I_channelname,直播,告知
+续好享购,O B_channelname I_channelname I_channelname,直播,告知
+中央一套直播,B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+播放北京卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播中央一套,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开昨天CCTV一的新闻联播,O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我要看中央六台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+放中央一套请拨,O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+我想听CCTV一,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+少儿,O O,模糊,其他
+中央一套智障,B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+打开五一台,O O O O O,直播,告知
+我要看中央电视台,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+文化,O O,模糊,其他
+好文艺台,O O O O,模糊,其他
+我喜欢15频道,O O O B_channelID I_channelID I_channelID I_channelID,直播,告知
+看下幼儿教育暂停,O O O O O O B_command I_command,模糊,指令
+我想看直播频道,O O O O O O O,直播,告知
+看电视,O O O,模糊,其他
+我要看宁夏台,O O O B_channelname I_channelname I_channelname,直播,告知
+你好我想看泾县台,O O O O O B_channelname I_channelname I_channelname,直播,告知
+给我搜资讯台,O O O O O O,模糊,其他
+我想看中央六套今天8点钟,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_time I_time I_time,回看,告知
+转青海台,O B_channelname I_channelname I_channelname,直播,告知
+我想看湖南卫视昨天的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date O O O,回看,告知
+你好我要看湖南卫视,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看安徽卫视第三方节目,O O O B_channelname I_channelname I_channelname I_channelname O O O O O,直播,告知
+我想我要看湖南卫视,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看中央一台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看湖南卫视今天8点的节目,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date B_time I_time O O O,回看,告知
+你好打开CCTV2,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+切频道,O O O,直播,告知
+我要看中央四套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看重庆台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看CCTV的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+切换到点播频道,O O O O O O O,直播,告知
+我想看荔枝台,O O O B_channelname I_channelname I_channelname,直播,告知
+我想看CCTV5的体育频道不对,O O O B_channelname I_channelname I_channelname I_channelname I_channelname O O O O O O O,直播,告知
+我要看CCTV,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开CCTV新闻联播,O O B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想要看CCTV一的新闻联播,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的江苏频道的非诚勿扰,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+你好地方台,O O O O O,直播,告知
+打开地方台放不,O O O O O O O,直播,告知
+最近乌鲁木齐三天的天气,O O O O O O O O O O O,模糊,其他
+我要看山东卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你好湖南经视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+湖南金鹰,O O O O,模糊,其他
+回看安徽卫视昨晚的节目,O O B_channelname I_channelname I_channelname I_channelname B_date B_time O O O,回看,告知
+播放浙江卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看福建台,O O O B_channelname I_channelname I_channelname,直播,告知
+你好陕西台,O O B_channelname I_channelname I_channelname,直播,告知
+我想听湖北经济,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你好我想听浙江台,O O O O O B_channelname I_channelname I_channelname,直播,告知
+回看中央一套昨晚的节目,O O B_channelname I_channelname I_channelname I_channelname B_date B_time O O O,回看,告知
+你好湖南卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看中央新闻频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+母婴,O O,模糊,其他
+看体育频道,O O O O O,模糊,其他
+我要看直播,O O O O O,直播,告知
+播放湖南交通频道,O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月10号6:43中央11频道的一路欢笑,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看昨天的CCTV一新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+调到中央四,O O B_channelname I_channelname I_channelname,直播,告知
+我要打开中央二套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天晚上7点钟湖南卫视新闻联播,O O O B_date I_date B_time I_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我要看中央三套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+切换到浙江卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你好中央一套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看中央三,O O O B_channelname I_channelname I_channelname,直播,告知
+切换到浙江五,O O O B_channelname I_channelname I_channelname,直播,告知
+我现在想看南京新闻,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+来一首中央一套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+看浙江卫视,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+切换到湖南金鹰卡通,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+你好打开CCTV4,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看昨天湖南卫视大丈夫,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname,回看,告知
+我要看中央六套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看浙江卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央二频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月9号2:25的CCTV3频道的太行英雄传,O O O B_date I_date I_date I_date B_time I_time I_time I_time O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看30号5:37中央三频道的中国民歌大会,O O O B_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号中央一台的七点,O O O B_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname O B_time I_time,回看,告知
+我想看CCTV高清频道,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看3月10号7:14中央三频道的文化十分,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号6:43的一路欢笑CCTV11,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time O B_programname I_programname I_programname I_programname B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看CCTV33月9号2:25的太行英雄传,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date B_time I_time I_time I_time O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我要看昨天上午的CCTV一频道的,O O O B_date I_date B_time I_time O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname O,回看,告知
+怎么high啊我想看湖南卫视,O O O O O O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看CCTV3频道3月9号的2:25的太行英雄传,O O O B_channelname I_channelname I_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date O B_time I_time I_time I_time O B_programname I_programname I_programname I_programname I_programname,回看,告知
+我想看3月10号4:13中央三频道的综艺喜乐汇,O O O B_date I_date I_date I_date I_date B_time I_time I_time I_time B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname,回看,告知
+打开CCTV5,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+交通,O O,直播,告知
+我要看3月10号七点整的中央一台的新闻联播,O O O B_date I_date I_date I_date I_date B_time I_time I_time O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+你好切换到CCTV,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看浙江台,O O O B_channelname I_channelname I_channelname,直播,告知
+你好打开CCTV6,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+你好我想看CCTV5,O O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+切换到广州体育,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开CCTV4,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+打开CCTV3,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+你好我想看昨天晚上湖南卫视的节目,O O O O O B_date I_date B_time I_time B_channelname I_channelname I_channelname I_channelname O O O,回看,告知
+我想看昨天湖南卫视的快乐大本营,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname I_programname,回看,告知
+你好我想看中央一套,O O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看贵州台,O O O B_channelname I_channelname I_channelname,直播,告知
+播放江苏卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央14台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我我想看中央五套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开电视,O O O O,模糊,其他
+播放中央四套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+你很想看CCTV一,O O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看青岛新闻,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+切换到中央一台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+切换到中央一套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+下一台系统,B_command I_command I_command O O,模糊,指令
+播放中央一台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央七台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央11台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放南京二台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放湖南卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放江苏卫视高清,O O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+播放中央12台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央13台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央15台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央八台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央16台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+帮我转到中央三台,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看女人不坏,O O O B_programname I_programname I_programname I_programname,点播,告知
+我要看喜剧,O O O B_type i_type,点播,告知
+播放南京一台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央六台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放新疆卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央三台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放广东卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看中央二套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放南京台,O O B_channelname I_channelname I_channelname,直播,告知
+我要看中央二台,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放CCTV5,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央十台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央九台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放一下中央一套,O O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天CNN,O O O B_date I_date O O O,回看,告知
+打开广东卫视,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央五套高清,O O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+我要看昨天中央一套的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+播放中央五台,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天中央电视台的今日说法,O O O B_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+播放中央五套,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+播放中央一套高清,O O B_channelname I_channelname I_channelname I_channelname O O,直播,告知
+切换到湖南卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+打开家庭影院,O O O O O O,模糊,其他
+你好打开CCTV5,O O O O B_channelname I_channelname B_channelname I_channelname I_channelname,直播,告知
+我想看北京卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看浙江卫视,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+换中央五套,O B_channelname I_channelname I_channelname I_channelname,直播,告知
+切到CCTV,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+换到购物频道,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+想看广东珠江台,O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看2018年2月1日CCTV新闻联播,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+我想看CCTV12月9号的新闻联播,O O O B_channelname I_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date O B_programname I_programname I_programname I_programname,回看,告知
+我要看湖南卫视1月1日的春晚,O O O B_channelname I_channelname I_channelname I_channelname B_date I_date I_date I_date O B_programname I_programname,回看,告知
+我要看2018年1月1日湖南卫视,O O O B_date I_date I_date I_date I_date I_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname,回看,告知
+我想看中央四套,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我要看2月8号CCTV1新闻联播,O O O B_date I_date I_date I_date B_channelname I_channelname I_channelname I_channelname I_channelname B_programname I_programname I_programname I_programname,回看,告知
+打开漳州二,O O B_channelname I_channelname I_channelname,直播,告知
+我想看CCTV6,O O O B_channelname I_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看昨天的中央一台的新闻联播,O O O B_date I_date O B_channelname I_channelname I_channelname I_channelname O B_programname I_programname I_programname I_programname,回看,告知
+调台广州体育,O O B_channelname I_channelname I_channelname I_channelname,直播,告知
+我想看芒果TV,O O O B_channelname I_channelname I_channelname I_channelname,直播,告知

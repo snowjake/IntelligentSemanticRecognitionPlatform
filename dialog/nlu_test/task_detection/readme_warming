@@ -1,0 +1,3 @@
+By NXG(Primtee)
+    Task detection is a absolutely independent module. wo just used cnn for task detection. and we may try LSTM or GRU
+to do this.

@@ -1,0 +1,627 @@
+mohu	播  放  直  播	
+mohu	是  不  是  打  了  你  这  个  美  女  聊  天  不  晓  得  云  南  四  套	
+zhibo	能  不  能  看  看  中  央  一  套	
+zhibo	我  想  看  CCTV  4	
+huikan	我  想  看  昨  天  湖  南  卫  视  的  节  目	
+zhibo	打  开  音  乐  台	
+zhibo	你  好  中  央  一  套	
+zhibo	打  开  综  合  台	
+huikan	我  想  看  昨  天  江  苏  影  视  明  天  十  分  的  九  九	
+zhibo	我  想  看  交  通  台	
+zhibo	这  种  情  况  我  要  看  CCTV  一	
+huikan	我  想  看  3  月  3  日  优  漫  卡  通	
+zhibo	我  想  看  地  方  台	
+zhibo	打  开  经  济  台	
+huikan	我  想  看  3  月  3  日  优  漫  卡  通  频  道  5:10  的  熊  出  没	
+zhibo	你  好  打  开  中  央  台	
+zhibo	你  好  我  想  听  江  西  都  市	
+zhibo	我  想  看  综  合  台	
+mohu	放  高  清	
+huikan	回  看  昨  天  晚  上  安  徽  卫  视  的  节  目	
+zhibo	打  开  漯  河  台	
+huikan	我  想  看  昨  天  12  点  三  七  分  的  中  央  一  套	
+zhibo	直  播  中  央  一  套	
+huikan	我  想  看  中  央  六  台  今  天  8  点  钟  的  节  目	
+huikan	我  想  看  昨  天  的  中  央  一  台	
+mohu	贝  尔	
+huikan	我  想  看  昨  天  晚  上  中  央  一  台  七  点  的  新  闻  联  播	
+zhibo	你  好  中  央  五  台  理  疗  仪	
+huikan	我  想  看  3  月  3  号  优  漫  卡  通	
+huikan	我  想  看  3  月  3  日  江  苏  影  视  1:35  的  九  九	
+zhibo	打  开  湖  南  金  鹰	
+zhibo	我  要  看  浙  江  卫  视	
+zhibo	我  想  看  CCTV  新  闻  频  道	
+zhibo	打  开  湖  南  交  通  频  道	
+mohu	今  天  中  央  台	
+zhibo	打  开  云  南  卫  视	
+zhibo	我  想  听  四  川  台	
+zhibo	我  想  看  CCTV  5  的  NBA	
+huikan	我  想  看  昨  天  南  京  新  闻  频  道  环  球  资  讯	
+mohu	刚  刚  我  几  台  有  声  音  的  呀	
+mohu	财  经	
+dianbo	进  入  理  财  快  报	
+zhibo	打  开  江  西  卫  视	
+zhibo	我  想  看  广  东  卫  视  高  清  频  道	
+mohu	频  道	
+mohu	网  络	
+zhibo	我  要  看  东  方  卫  视	
+zhibo	我  想  看  江  苏  台	
+zhibo	我  想  听  浙  江  台	
+mohu	北  京  酒  吧	
+zhibo	你  好  CCTV  一	
+zhibo	我  想  听  湖  北  台	
+mohu	那  一  套	
+zhibo	我  想  听  内  蒙  古  新  闻	
+mohu	打  开  内  蒙  古  蒙  语	
+zhibo	打  开  福  建  都  市  生  活	
+zhibo	我  喜  欢  中  央  一  套	
+mohu	搜  索  中  央  一  套	
+zhibo	我  要  看  芒  果  卫  视	
+huikan	回  看  中  央  一  套	
+mohu	看  直  播	
+zhibo	我  想  看  福  建  都  市  生  活	
+zhibo	我  要  看  中  央  一  套  高  清	
+zhibo	我  想  中  央  一  套	
+dianbo	我  想  看  纪  录  片	
+zhibo	切  换  到  中  央  五  套	
+zhibo	打  开  荔  枝  台  高  清	
+zhibo	打  开  湖  北  台	
+dianbo	打  开  理  财  快  报	
+zhibo	能  不  能  播  放  中  央  一  套	
+zhibo	我  要  看  ATV  5	
+zhibo	放  中  央  15  套	
+mohu	给  2192  台  电  话	
+mohu	广  传	
+zhibo	你  好  我  想  听  四  川  台	
+mohu	动  作	
+mohu	我  的  那  种  方  式  的  微  电  影  频  道	
+zhibo	我  看  江  苏  卫  视	
+zhibo	给  我  放  央  视  农  业  频  道	
+zhibo	我  想  听  山  东  台	
+zhibo	我  要  看  CCTV  9	
+mohu	便  民  服  务	
+zhibo	我  要  看  CCTV  7	
+zhibo	我  要  看  CCTV  3	
+zhibo	你  好  我  想  看  CCTV  一	
+zhibo	我  想  要  看  中  央  一  套	
+dianbo	点  播	
+zhibo	我  想  看  芒  果  卫  视	
+zhibo	我  要  看  CCTV  4	
+zhibo	你  好  东  方  卫  视	
+mohu	打  开  电  视  直  播	
+zhibo	播  101  频  道	
+zhibo	我  要  看  安  徽  卫  视	
+mohu	有  中  央  一  套  吗	
+zhibo	能  不  能  看  中  央  一  套	
+mohu	二  频  道	
+zhibo	你  好  我  要  看  CCTV  一	
+zhibo	看  中  央  一  套	
+zhibo	给  不  给  播  放  中  央  一  套	
+zhibo	我  想  看  CCTV  8	
+zhibo	看  芒  果  台	
+zhibo	我  想  看  安  徽  卫  视	
+zhibo	我  要  看  湖  南  卫  视  啊	
+zhibo	我  很  喜  欢  中  央  一  套	
+zhibo	播  一  下  东  方  卫  视  高  清  频  道	
+mohu	汤  我  想  看  卫  视	
+zhibo	打  开  北  京  卫  视	
+zhibo	我  要  看  频  道	
+zhibo	能  不  能  中  央  一  套	
+zhibo	我  要  看  CCTV  12	
+mohu	给  我  打  开  电  视  直  播	
+dianbo	看  喜  剧  电  影	
+zhibo	第  一  频  道	
+mohu	有  没  有  中  央  一  套	
+zhibo	我  要  看  江  南  卫  视	
+zhibo	我  看  18  频  道	
+zhibo	打  开  湖  北  台	
+zhibo	帮  我  打  开  CCTV  一  高  清	
+zhibo	我  要  看  10  频  道	
+zhibo	快  打  开  北  京  卫  视  高  清	
+zhibo	马  上  调  到  广  东  卫  视	
+zhibo	我  想  看  20  频  道	
+mohu	IPTV	
+zhibo	电  视  剧  频  道	
+zhibo	我  要  看  安  徽  卫  视	
+zhibo	我  想  调  资  讯  台	
+zhibo	我  想  调  202  频  道	
+zhibo	我  想  看  频  道	
+zhibo	我  们  想  看  东  方  卫  视  频  道	
+zhibo	我  想  看  央  视  五  套	
+zhibo	你  好  北  京  卫  视	
+zhibo	一  频  道	
+zhibo	我  想  看  央  视  七  套	
+zhibo	点  综  合  台	
+zhibo	调  文  艺  台	
+zhibo	播  放  音  乐  台	
+huikan	我  要  看  昨  天  的  东  方  卫  视  节  目	
+huikan	昨  天  的  北  京  卫  视  节  目	
+zhibo	打  开  经  济  台	
+mohu	打  开  价  格  服  务	
+mohu	陕  西	
+zhibo	播  放  CCTV  一	
+zhibo	番  茄  台	
+huikan	回  看  安  徽  卫  视	
+zhibo	播  放  湖  南  台	
+zhibo	播  35  频  道	
+zhibo	打  开  综  艺  台	
+zhibo	我  要  看  荔  枝  台	
+zhibo	我  要  看  中  央  五  套	
+zhibo	看  陕  西  台	
+zhibo	打  开  浙  江  台	
+zhibo	续  好  享  购	
+zhibo	中  央  一  套  直  播	
+zhibo	播  放  北  京  卫  视	
+zhibo	播  中  央  一  套	
+huikan	打  开  昨  天  CCTV  一  的  新  闻  联  播	
+zhibo	我  要  看  中  央  六  台	
+zhibo	放  中  央  一  套  请  拨	
+zhibo	我  想  听  CCTV  一	
+mohu	少  儿	
+zhibo	中  央  一  套  智  障	
+zhibo	打  开  五  一  台	
+zhibo	我  要  看  中  央  电  视  台	
+mohu	文  化	
+mohu	好  文  艺  台	
+zhibo	我  喜  欢  15  频  道	
+dianbo	看  下  幼  儿  教  育  暂  停	
+zhibo	我  想  看  直  播  频  道	
+mohu	看  电  视	
+zhibo	我  要  看  宁  夏  台	
+zhibo	你  好  我  想  看  泾  县  台	
+mohu	给  我  搜  资  讯  台	
+huikan	我  想  看  中  央  六  套  今  天  8  点  钟	
+zhibo	转  青  海  台	
+huikan	我  想  看  湖  南  卫  视  昨  天  的  节  目	
+zhibo	你  好  我  要  看  湖  南  卫  视	
+zhibo	我  想  看  安  徽  卫  视  第  三  方  节  目	
+zhibo	我  想  我  要  看  湖  南  卫  视	
+zhibo	我  要  看  中  央  一  台	
+huikan	我  想  看  湖  南  卫  视  今  天  8  点  的  节  目	
+zhibo	你  好  打  开  CCTV  2	
+zhibo	切  频  道	
+zhibo	我  要  看  中  央  四  套	
+zhibo	我  要  看  重  庆  台	
+zhibo	我  想  看  CCTV  的  新  闻  联  播	
+zhibo	切  换  到  点  播  频  道	
+zhibo	我  想  看  荔  枝  台	
+zhibo	我  想  看  CCTV  5  的  体  育  频  道  不  对	
+zhibo	我  要  看  CCTV	
+zhibo	打  开  CCTV  新  闻  联  播	
+zhibo	我  想  要  看  CCTV  一  的  新  闻  联  播	
+huikan	我  想  看  昨  天  的  江  苏  频  道  的  非  诚  勿  扰	
+zhibo	你  好  地  方  台	
+mohu	打  开  地  方  台  放  不	
+mohu	最  近  乌  鲁  木  齐  三  天  的  天  气	
+zhibo	我  要  看  山  东  卫  视	
+zhibo	你  好  湖  南  经  视	
+mohu	湖  南  金  鹰	
+huikan	回  看  安  徽  卫  视  昨  晚  的  节  目	
+zhibo	播  放  浙  江  卫  视	
+zhibo	我  要  看  福  建  台	
+zhibo	你  好  陕  西  台	
+zhibo	我  想  听  湖  北  经  济	
+zhibo	你  好  我  想  听  浙  江  台	
+huikan	回  看  中  央  一  套  昨  晚  的  节  目	
+zhibo	你  好  湖  南  卫  视	
+zhibo	我  要  看  中  央  新  闻  频  道	
+mohu	母  婴	
+mohu	看  体  育  频  道	
+zhibo	我  要  看  直  播	
+zhibo	播  放  湖  南  交  通  频  道	
+huikan	我  想  看  昨  天  的  CCTV  一  新  闻  联  播	
+zhibo	调  到  中  央  四	
+zhibo	我  要  打  开  中  央  二  套	
+huikan	我  想  看  昨  天  晚  上  7  点  钟  湖  南  卫  视  新  闻  联  播	
+zhibo	我  要  看  中  央  三  套	
+zhibo	切  换  到  浙  江  卫  视	
+zhibo	你  好  中  央  一  套	
+zhibo	我  要  看  中  央  三	
+zhibo	切  换  到  浙  江  五	
+zhibo	我  现  在  想  看  南  京  新  闻	
+zhibo	来  一  首  中  央  一  套	
+zhibo	看  浙  江  卫  视	
+zhibo	切  换  到  湖  南  金  鹰  卡  通	
+zhibo	你  好  打  开  CCTV  4	
+huikan	我  要  看  昨  天  湖  南  卫  视  大  丈  夫	
+zhibo	我  要  看  中  央  六  套	
+zhibo	我  要  看  浙  江  卫  视	
+zhibo	我  想  看  中  央  二  频  道	
+huikan	我  想  看  3  月  9  号  2:25  的  CCTV  3  频  道  的  太  行  英  雄  传	
+huikan	我  想  看  30  号  5:37  中  央  三  频  道  的  中  国  民  歌  大  会	
+huikan	我  想  看  3  月  10  号  中  央  一  台  的  七  点	
+zhibo	我  想  看  CCTV  高  清  频  道	
+huikan	我  想  看  3  月  10  号  7:14  中  央  三  频  道  的  文  化  十  分	
+huikan	我  想  看  3  月  10  号  6:43  的  一  路  欢  笑  CCTV  11	
+huikan	我  想  看  CCTV  3  3  月  9  号  2:25  的  太  行  英  雄  传	
+huikan	我  要  看  昨  天  上  午  的  CCTV  一  频  道  的	
+zhibo	怎  么  high  啊  我  想  看  湖  南  卫  视	
+huikan	我  想  看  CCTV  3  频  道  3  月  9  号  的  2:25  的  太  行  英  雄  传	
+huikan	我  想  看  3  月  10  号  4:13  中  央  三  频  道  的  综  艺  喜  乐  汇	
+zhibo	打  开  CCTV  5	
+zhibo	交  通	
+huikan	我  要  看  3  月  10  号  七  点  整  的  中  央  一  台  的  新  闻  联  播	
+zhibo	你  好  切  换  到  CCTV	
+zhibo	我  想  看  浙  江  台	
+zhibo	你  好  打  开  CCTV  6	
+zhibo	你  好  我  想  看  CCTV  5	
+zhibo	切  换  到  广  州  体  育	
+zhibo	打  开  CCTV  4	
+zhibo	打  开  CCTV  3	
+huikan	你  好  我  想  看  昨  天  晚  上  湖  南  卫  视  的  节  目	
+huikan	我  想  看  昨  天  湖  南  卫  视  的  快  乐  大  本  营	
+zhibo	你  好  我  想  看  中  央  一  套	
+zhibo	我  想  看  贵  州  台	
+zhibo	播  放  江  苏  卫  视	
+zhibo	播  放  中  央  14  台	
+zhibo	我  我  想  看  中  央  五  套	
+mohu	打  开  电  视	
+zhibo	播  放  中  央  四  套	
+zhibo	你  很  想  看  CCTV  一	
+zhibo	我  想  看  青  岛  新  闻	
+zhibo	切  换  到  中  央  一  台	
+zhibo	切  换  到  中  央  一  套	
+huikan	我  想  看  昨  天  中  央  一  套  的  今  日  说  法	
+mohu	下  一  台  系  统	
+zhibo	播  放  中  央  一  台	
+zhibo	播  放  中  央  七  台	
+zhibo	播  放  中  央  11  台	
+zhibo	播  放  南  京  二  台	
+zhibo	播  放  湖  南  卫  视	
+zhibo	播  放  江  苏  卫  视  高  清	
+zhibo	播  放  中  央  12  台	
+zhibo	播  放  中  央  13  台	
+zhibo	播  放  中  央  15  台	
+zhibo	播  放  中  央  八  台	
+zhibo	播  放  中  央  16  台	
+zhibo	帮  我  转  到  中  央  三  台	
+dianbo	我  要  看  女  人  不  坏	
+dianbo	我  要  看  喜  剧	
+zhibo	播  放  南  京  一  台	
+zhibo	播  放  中  央  六  台	
+zhibo	播  放  新  疆  卫  视	
+zhibo	播  放  中  央  三  台	
+zhibo	播  放  广  东  卫  视	
+zhibo	我  想  看  中  央  二  套	
+zhibo	播  放  南  京  台	
+zhibo	我  要  看  中  央  二  台	
+zhibo	播  放  CCTV  5	
+zhibo	播  放  中  央  十  台	
+zhibo	播  放  中  央  九  台	
+zhibo	播  放  一  下  中  央  一  套	
+huikan	我  想  看  昨  天  CNN	
+zhibo	打  开  广  东  卫  视	
+zhibo	播  放  中  央  五  套  高  清	
+huikan	我  要  看  昨  天  中  央  一  套  的  今  日  说  法	
+zhibo	播  放  中  央  五  台	
+huikan	我  想  看  昨  天  中  央  电  视  台  的  今  日  说  法	
+zhibo	播  放  中  央  五  套	
+zhibo	播  放  中  央  一  套  高  清	
+zhibo	切  换  到  湖  南  卫  视	
+mohu	打  开  家  庭  影  院	
+zhibo	你  好  打  开  CCTV  5	
+zhibo	我  想  看  北  京  卫  视	
+zhibo	我  想  看  浙  江  卫  视	
+zhibo	换  中  央  五  套	
+zhibo	切  到  CCTV	
+zhibo	换  到  购  物  频  道	
+zhibo	想  看  广  东  珠  江  台	
+huikan	我  要  看  2018  年  2  月  1  日  CCTV  新  闻  联  播	
+huikan	我  想  看  CCTV  1  2  月  9  号  的  新  闻  联  播	
+huikan	我  要  看  湖  南  卫  视  1  月  1  日  的  春  晚	
+huikan	我  要  看  2018  年  1  月  1  日  湖  南  卫  视	
+zhibo	我  想  看  中  央  四  套	
+huikan	我  要  看  2  月  8  号  CCTV  1  新  闻  联  播	
+zhibo	打  开  漳  州  二	
+zhibo	我  想  看  CCTV  6	
+huikan	我  想  看  昨  天  的  中  央  一  台  的  新  闻  联  播	
+zhibo	调  台  广  州  体  育	
+zhibo	我  想  看  芒  果  TV	
+mohu	你  给  力  一  点	
+mohu	谁  大  一  点	
+mohu	声  音  大  一  点	
+huikan	我  想  看  江  苏  卫  视  昨  天  我  是  特  种  兵  之  火  凤  凰	
+huikan	我  想  看  昨  天  CCTV  一  的  新  闻  联  播	
+huikan	我  想  看  CCTV 一  昨  天  的  新  闻  联  播	
+huikan	我  想  看  昨  天  中  央  一  台  的  新  闻  联  播	
+huikan	我  想  看  CCTV  一  台  昨  天  的  焦  点  访  谈	
+huikan	我  想  看  3  月  3  号  8:59  迈  乐  学  堂	
+zhibo	我  想  看  江  苏  卫  视  的  非  诚  勿  扰	
+huikan	我  想  看  前  天  中  央  一  台  的  新  闻  联  播	
+huikan	我  想  看  2011  年  7  月  17 日  中  央  一  台  的  新  闻  联  播	
+huikan	我  想  看  昨  天  中  央  一  套  的  今  日  说  法	
+huikan	我  要  看  昨  天  CCTV  的  新  闻  联  播	
+huikan	我  想  看  中  央  一  台  昨  天  的  新  闻  联  播	
+huikan	我  想  看  昨  天  江  苏  卫  视  的  火  凤  凰	
+dianbo	我  想  看  女  人  不  坏	
+huikan	我  想  看  中  央  一  台  12:37  的  今  日  说  法	
+huikan	我  想  看  昨  天  的  CCTV  的  今  日  说  法	
+huikan	我  想  看  昨  天  的  CCTV  一  的  新  闻  点  播	
+mohu	我  想  看  3  月  2  号  的	
+huikan	我  要  看  昨  天  的  CCTV  一  套  新  闻  联  播	
+mohu	我  想  看  直  播	
+huikan	我  要  看  2018  年  3  月  1  号  CCTV  的  新  闻  联  播	
+zhibo	为  什  么  我  想  看  湖  南  卫  视	
+huikan	我  想  看  中  央  一  套  2017  年  7  月  18  日  的  新  闻  联  播	
+zhibo	我  看  错  了  李  在  真  的  诗  泰  安  电  视  台	
+huikan	我  想  看  2012  年  3  月  1  号  的  CCTV  新  闻  联  播	
+huikan	我  想  看  CCTV  1  昨  天  的  今  日  说  法	
+huikan	我  要  看  昨  天  的  CCTV  1  的  今  日  说  法	
+huikan	我  想  看  昨  天  的  CCTV  1  今  日  说  法	
+huikan	我  想  看  中  央  一  台  2017  年  7  月  18  日  的  新  闻  联  播	
+zhibo	我  想  看  CCTV  音  乐	
+huikan	我  想  看  2017  年  7  月  18  日  中  央  一  台  的  新  闻  联  播	
+huikan	我  想  看  昨  天  CCTV  1  的  今  日  说  法	
+huikan	我  想  看  2017  年  7  月  18  日  八  一  台  的  新  闻  联  播	
+huikan	我  要  看  昨  天  的  CCTV  的  新  闻  联  播	
+mohu	声  音  小  一  点	
+huikan	我  想  看  昨  天  的  CCTV  的  新  闻  联  播	
+huikan	我  想  看  3  月  16  日  的  新  闻  联  播	
+huikan	2  月  24  号  的  湖  南  卫  视  节  目  单	
+zhibo	我  想  看  CCTV  14	
+zhibo	我  很  喜  欢  看  中  央  一  套	
+mohu	今  晚  月	
+zhibo	我  想  看  湖  南  卫  视  高  清  频  道	
+huikan	2  月  24  号  的  湖  南  卫  视	
+huikan	看  2  月  24  号  的  湖  南  卫  视	
+mohu	节  目  单	
+dianbo	我  想  看  江  苏  卫  视  的  昆  仑  决	
+huikan	回  看  昨  天  晚  上  安  徽  频  道  的  节  目	
+mohu	帮  我  查  一  下  今  天  的  日  程	
+mohu	央  视  微	
+zhibo	我  喜  欢  看  中  央  一  套	
+huikan	我  想  看  昨  天  的  焦  点  访  谈	
+mohu	学  校  明  天  9  点  的  李  晨  提  醒	
+mohu	还  有  什  么  节  目  可  以  听	
+zhibo	中  央  一  套  直  播	
+mohu	播  放  直  播	
+huikan	我  要  看  3  月  10  号  七  点  的  新  闻  联  播	
+huikan	我  想  看  昨  天  湖  南  卫  视  的  节  目	
+huikan	我  想  看  3  月  3  日  优  漫  卡  通  九	
+huikan	我  想  看  3  月  3  日  优  漫  卡  通  频  道  5:10  的  熊  出  没	
+mohu	昨  晚	
+huikan	我  想  看  昨  天  的  今  日  说  法	
+huikan	回  看  昨  天  晚  上  安  徽  卫  视  的  节  目	
+huikan	我  想  看  昨  天  12  点  三  十  七  分  的  中  央  一  套	
+zhibo	直  播  中  央  一  套	
+huikan	进  入  回  看	
+huikan	我  想  看  中  央  六  台  今  天  8  点  钟  的  节  目	
+huikan	我  想  看  昨  天  的  中  央  一  台	
+huikan	我  想  看  昨  天  晚  上  中  央  一  台  七  点  的  新  闻  联  播	
+zhibo	你  好  中  央  五  台  理  疗  仪	
+huikan	我  想  看  3  月  4  号  六  点  的  熊  出  没	
+huikan	我  想  看  3  月  3  号  优  漫  卡  通	
+mohu	10  月  电  影	
+huikan	我  想  看  3  月  3  日  江  苏  影  视  1:35 的  九  九	
+mohu	节  目  列  表	
+mohu	现  在  在  重  点  催	
+zhibo	我  想  看  CCTV  新  闻  频  道	
+zhibo	我  想  看  CCTV  5  的  NBA	
+huikan	我  想  看  昨  天  南  京  新  闻  频  道  环  球  资  讯	
+mohu	你  现  在  打  车	
+mohu	爱  你  这  个  周  末	
+mohu	你  今  晚  更  新  版  本  吗	
+mohu	嗯  3  月  5  号  3:16	
+mohu	我  想  看  3  月  3  日	
+mohu	刚  刚  我  几  台  有  声  音  的  呀	
+huikan	我  想  看  昨  天  中  央  一  台  七  点  新  闻  新  闻  联  播	
+dianbo	进  入  理  财  快  报	
+mohu	上  个  星  期	
+mohu	昨  天  刚  刚  开  始	
+zhibo	打  开  福  建  都  市  生  活	
+mohu	周  末	
+huikan	回  看  中  央  一  套	
+mohu	看  直  播	
+zhibo	我  想  看  福  建  都  市  生  活	
+zhibo	我  要  看  中  央  一  套	
+mohu	看  一  下  节  目  单	
+mohu	我  想  看  节  目  单	
+mohu	节  目	
+mohu	看  看  节  目  单	
+mohu	播  放  时  间	
+mohu	综  艺  节  目	
+mohu	10  月  的  电  影	
+mohu	我  想  看  3  月  9  号	
+mohu	2015  年  10  月  的  电  影	
+mohu	2010  年  10  月  的  电  视  剧	
+mohu	打  开  电  视  直  播	
+mohu	有  中  央  一  套  吗	
+mohu	韩  国  最  新  的  综  艺  节  目	
+mohu	10  月  的  电  视  剧	
+zhibo	我  要  看  CCTV  12	
+mohu	给  我  打  开  电  视  直  播	
+mohu	喜  剧  电  影	
+mohu	2010  年  10  月  的  电  影	
+mohu	我  要  看  今  天  中  午  的  非  诚  勿  扰	
+mohu	哪  个  台  在  放  青  春  电  影	
+huikan	我  要  看  昨  天  的  东  方  卫  视  节  目	
+huikan	昨  天  的  北  京  卫  视  节  目	
+mohu	我  收  藏  节  目	
+mohu	直  播  穿  越	
+mohu	回  看  节  目  单	
+mohu	中  午  的  节  目	
+huikan	回  看  安  徽  卫  视	
+mohu	天  气  视  频  通  话	
+dianbo	播  理  财  快  报	
+mohu	我  想  看  回  看  节  目	
+mohu	2015  年  10  月  的  电  视  剧	
+huikan	打  开  昨  天  CCTV  一  的  新  闻  联  播	
+zhibo	放  中  央  一  套  请  拨	
+mohu	王  晶  2010  年  8  月  的  电  影	
+dianbo	看  下  幼  儿  教  育  暂  停	
+zhibo	我  想  看  直  播  频  道	
+dianbo	体  彩  快  报  打  开  理  财  快  报	
+huikan	我  想  看  湖  南  卫  视  昨  天  的  节  目	
+mohu	打  开  回  看	
+huikan	我  想  看  湖  南  卫  视  今  天  8  点  的  节  目	
+zhibo	我  想  看  CCTV  的  新  闻  联  播	
+dianbo	打  开  最  近  花  悸	
+zhibo	我  想  看  CCTV  5  的  体  育  频  道  不  对	
+zhibo	打  开  CCTV  新  闻  联  播	
+zhibo	我  想  要  看  CCTV  一  的  新  闻  联  播	
+huikan	我  想  看  昨  天  的  江  苏  频  道  的  非  诚  勿  扰	
+mohu	打  开  地  方  台  放  不	
+mohu	我  想  看  昨  天  的  新  闻  联  播	
+huikan	回  看  安  徽  卫  视  昨  晚  的  节  目	
+huikan	回  看  中  央  一  套  昨  晚  的  节  目	
+huikan	我  想  看  3  月  10  号  6:43  中  央  11  频  道  的  一  路  欢  笑	
+huikan	我  想  看  昨  天  的  CCTV  一  联  播	
+huikan	我  想  看  昨  天  晚  上  7  点  钟  湖  南  卫  视  新  闻  联  播	
+huikan	我  想  看  30  号  0:43  的  综  艺  喜  乐  汇	
+zhibo	切  换  到  湖  南  金  鹰  卡  通	
+huikan	我  要  看  昨  天  湖  南  卫  视  大  丈  夫	
+zhibo	我  想  看  中  央  二  频  道	
+huikan	我  想  看  3  月  9  号  2:25  的  CCTV  3  频  道  的  太  行  英  雄  传	
+huikan	我  想  看  早  上  8  点  中  央  一  套	
+huikan	我  想  看  30  号  5:37  中  央  三  频  道  的  中  国  民  歌  大  会	
+huikan	我  想  看  3  月  10  号  中  央  一  台  的  七  点	
+zhibo	我  想  看  CCTV  高  清  频  道	
+huikan	我  想  看  3  月  10  号  7:14  中  央  三  频  道  的  文  化  十  分	
+huikan	我  想  看  3  月  10  号  6:43  的  一  路  欢  笑  CCTV  11	
+mohu	我  想  看  22  点	
+huikan	我  想  看  3  月  10  号  一  台  频  道	
+huikan	我  想  看  CCTV  3  3  月  9  号  2:25  的  太  行  英  雄  传	
+huikan	我  要  看  昨  天  上  午  的  CCTV  一  频  道  的	
+huikan	我  想  看  CCTV  3  频  道  3  月  9  号  2:25  的  太  行  英  雄  传	
+huikan	我  想  看  3  月  10  号  4:13  中  央  三  频  道  的  综  艺  喜  乐  汇	
+huikan	我  要  看  3  月  10  号  七  点  整  的  中  央  一  台  的  新  闻  联  播	
+huikan	你  好  我  想  看  昨  天  晚  上  湖  南  卫  视  的  节  目	
+huikan	我  想  看  昨  天  湖  南  卫  视  的  快  乐  大  本  营	
+huikan	我  想  看  昨  天  中  央  一  套  的  今  日  说  法	
+dianbo	我  要  看  女  人  不  坏	
+huikan	我  要  看  昨  天  中  央  一  套  的  今  日  说  法	
+huikan	我  想  看  昨  天  中  央  电  视  台  的  今  日  说  法	
+huikan	我  要  看  2018  年  2  月  1  日  CCTV  新  闻  联  播	
+huikan	我  想  看  CCTV  1  2  月  9  号  的  新  闻  联  播	
+huikan	我  要  看  2018  年  2  月  1  日  央  视  新  闻  联  播	
+huikan	我  要  看  湖  南  卫  视  1  月  1  日  的  春  晚	
+zhibo	小  翼  小  翼  我  要  看  1  月  1  日  央  视  直  播	
+huikan	我  要  看  2018  年  1  月  1  日  湖  南  卫  视	
+huikan	我  要  看  2  月  8  日  央  视  新  闻  联  播	
+huikan	我  要  看  2018  年  2  月  1  日  新  闻  联  播	
+huikan	我  要  看  2  月  8  号  CCTV  1  新  闻  联  播	
+huikan	我  想  看  昨  天  的  中  央  一  台  的  新  闻  联  播	
+zhibo	我  想  看  中  央  六  套	
+zhibo	打  开  中  央  一  套	
+zhibo	我  想  看  江  苏  卫  视	
+zhibo	我  想  看  湖  南  卫  视	
+zhibo	我  想  看  CCTV  一	
+zhibo	我  想  看  影  视  频  道	
+zhibo	我  想  看  CCTV  2	
+zhibo	我  想  看  中  央	
+zhibo	我  想  看  CCTV  一	
+zhibo	我  想  看  中  央  五  套	
+zhibo	小  翼  小  翼  我  要  看  中  央  五  套	
+huikan	你  好  我  想  看  CCTV  一  昨  天  的  新  闻  联  播	
+huikan	我  想  看  2011  年  7  月  17  日  中  央  一  台  的  新  闻  联  播	
+zhibo	我  想  看  CCTV  7	
+huikan	我  想  看  昨  天  中  央  一  套  的  今  日  说  法	
+zhibo	我  想  看  中  央  一	
+zhibo	我  想  看  江  苏  卫  视  多	
+huikan	我  要  看  昨  天  CCTV  的  新  闻  联  播	
+zhibo	中  央  13  台	
+zhibo	中  央  一  套  高  清	
+zhibo	我  想  看  电  视	
+huikan	我  想  看  中  央  一  台  昨  天  的  新  闻  联  播	
+zhibo	湖  北  卫  视	
+huikan	我  想  看  昨  天  江  苏  卫  视  的  火  凤  凰	
+zhibo	我  要  看  湖  南  卫  视	
+huikan	我  想  看  昨  天  CCTV  一  的	
+zhibo	我  要  看  CCTV  6	
+zhibo	打  开  电  影  频  道	
+zhibo	打  开  湖  南  卫  视	
+zhibo	我  想  看  资  讯  台	
+zhibo	小  翼  小  翼  我  想  看  CCTV  一	
+dianbo	我  想  看  女  人  不  坏	
+zhibo	我  想  看  中  央  十  套	
+zhibo	我  想  看  中  央  五  台	
+zhibo	资  讯  台	
+zhibo	我  想  看  音  乐  台	
+huikan	我  想  看  CCTV  十  二  十  二  点  37  分  的  今  日  说  法	
+zhibo	打  开  CCTV	
+zhibo	打  开  文  艺  台	
+huikan	我  想  看  中  央  一  台  昨  天	
+huikan	我  想  看  中  央  一  台  12:37  的  今  日  说  法	
+zhibo	CCTV  音  乐	
+huikan	我  想  看  昨  天  的  CCTV  的  今  日  说  法	
+zhibo	看  湖  南  卫  视	
+huikan	我  想  看  昨  天  的  CCTV  一  的  新  闻  点  播	
+huikan	我  要  看  昨  天  的  CCTV  一  套  新  闻  联  播	
+zhibo	你  好  我  想  看  中  央  五  台	
+mohu	我  想  看  直  播	
+zhibo	我  想  看  CCTV  5	
+zhibo	我  想  看  中  央  一  台	
+huikan	我  要  看  2018  年  3  月  1  号  CCTV  的  新  闻  联  播	
+zhibo	我  看  湖  南  卫  视	
+zhibo	我  想  我  想  看  湖  南  卫  视	
+zhibo	为  什  么  我  想  看  湖  南  卫  视	
+mohu	天  天  精  选  歌	
+zhibo	打  开  v  音  乐	
+zhibo	我  要  看  CCTV  5	
+huikan	我  想  看  中  央  一  套  2017  年  7  月  18  日  的  新  闻  联  播	
+zhibo	我  看  错  了  李  在  真  的  诗  泰  安  电  视  台	
+zhibo	TVB	
+huikan	我  想  看  2012  年  3  月  1  号  的  CCTV  新  闻  联  播	
+zhibo	中  央  五  套	
+huikan	我  想  看  CCTV  1  昨  天  的  今  日  说  法	
+huikan	我  要  看  昨  天  的  CCTV  1  的  今  日  说  法	
+huikan	我  想  看  昨  天  的  CCTV  1  今  日  说  法	
+zhibo	中  央  一  套	
+huikan	我  想  看  中  央  一  台  2017  年  7  月  18  日  的  新  闻  联  播	
+zhibo	我  想  看  CCTV  音  乐	
+huikan	我  想  看  2017  年  7  月  18  日  中  央  一  台  的  新  闻  联  播	
+huikan	我  想  看  昨  天  CCTV  1  的  今  日  说  法	
+dianbo	我  想  看  喜  剧	
+huikan	我  想  看  2017  年  7  月  18  日  八  一  台  的  新  闻  联  播	
+huikan	我  想  看  CCTV  12  点  37  分  的  今  日  说  法	
+huikan	我  要  看  昨  天  的  CCTV  的  新  闻  联  播	
+huikan	我  想  看  昨  天  的  CCTV  的  新  闻  联  播	
+huikan	查  看  昨  天  的  CCTV  的  新  闻  联  播	
+zhibo	13  我  想  看  湖  南  卫  视	
+huikan	2  月  24  号  的  湖  南  卫  视  节  目  单	
+zhibo	打  开  中  央  一  台	
+zhibo	我  想  看  CCTV  14	
+zhibo	一  六  台	
+huikan	2  月  27  号  的  湖  南  卫  视  节  目  单	
+huikan	2  月  25  号  的  湖  南  卫  视  节  目  单	
+mohu	电  视	
+zhibo	小  翼  小  翼  打  开  CCTV  一	
+mohu	地  方  台	
+zhibo	我  要  看  ATV	
+zhibo	打  开  直  播	
+zhibo	看  芒  果  台	
+zhibo	我  很  喜  欢  看  中  央  一  套	
+huikan	昨  天  中  央  一  套	
+mohu	打  开  地  方  台	
+huikan	昨  天  中  央  一  套  台  频  道	
+dianbo	打  开  新  闻  轮  播	
+zhibo	我  要  看  凤  凰  卫  视	
+zhibo	我  想  看  中  央  台	
+zhibo	我  想  看  湖  南  卫  视  高  清  频  道	
+huikan	2  月  24  号  的  湖  南  卫  视	
+zhibo	直  播	
+zhibo	湖  南  卫  视	
+huikan	看  2  月  24  号  的  湖  南  卫  视	
+zhibo	应  用  山  酒  店  建  国  想  看  湖  南  卫  视  台	
+zhibo	去  中  央  五  台	
+dianbo	我  想  看  江  苏  卫  视  的  昆  仑  决	
+zhibo	我  想  看  经  济  台	
+zhibo	我  要  看  江  苏  卫  视	
+huikan	回  看  昨  天  晚  上  安  徽  频  道  的  节  目	
+zhibo	我  想  看  文  艺  台	
+mohu	央  视  微	
+zhibo	播  放  中  央  一  套	
+zhibo	我  喜  欢  看  中  央  一  套	
+zhibo	打  开  中  央  台  列  表	
+zhibo	打  开  中  央  台	
+zhibo	我  要  听  珠  江  台	
+zhibo	我  想  看  中  央  三  套	
+zhibo	我  要  看  东  方  卫  视	
+mohu	农  场	
+zhibo	看  湖  南  卫  视  高  清  台	
+zhibo	打  开  交  通  台	
+zhibo	打  开  播  CCTV	
+zhibo	我  要  听  湖  南  台	
+zhibo	点  中  央  台	
+zhibo	中  央  一  套  直  播	
+zhibo	给  我  看  CCTV  6

@@ -1,0 +1,629 @@
+[['播', 'O'], ['放', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['是', 'O'], ['不', 'O'], ['是', 'O'], ['打', 'O'], ['了', 'O'], ['你', 'O'], ['这', 'O'], ['个', 'O'], ['美', 'O'], ['女', 'O'], ['聊', 'O'], ['天', 'O'], ['不', 'O'], ['晓', 'O'], ['得', 'O'], ['云', 'B_channelName'], ['南', 'I_channelName'], ['四', 'I_channelName'], ['套', 'I_channelName']]	模糊	告知	
+[['能', 'O'], ['不', 'O'], ['能', 'O'], ['看', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['4', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['音', 'B_channelName'], ['乐', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['综', 'B_channelName'], ['合', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['影', 'I_channelName'], ['视', 'I_channelName'], ['明', 'B_startDate'], ['天', 'I_startDate'], ['十', 'B_startTime'], ['分', 'I_startTime'], ['的', 'O'], ['九', 'B_name'], ['九', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['交', 'B_channelName'], ['通', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['这', 'O'], ['种', 'O'], ['情', 'O'], ['况', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['经', 'B_channelName'], ['济', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['5:10', 'B_startTime'], ['的', 'O'], ['熊', 'B_name'], ['出', 'I_name'], ['没', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['打', 'O'], ['开', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['听', 'O'], ['江', 'B_channelName'], ['西', 'I_channelName'], ['都', 'I_channelName'], ['市', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['综', 'B_channelName'], ['合', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['放', 'O'], ['高', 'O'], ['清', 'O']]	模糊	告知	
+[['回', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['漯', 'B_channelName'], ['河', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['12', 'B_startTime'], ['点', 'I_startTime'], ['三', 'I_startTime'], ['七', 'I_startTime'], ['分', 'I_startTime'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['直', 'O'], ['播', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['台', 'I_channelName'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['8', 'B_startTime'], ['点', 'I_startTime'], ['钟', 'I_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	回看	告知	
+[['贝', 'B_persons'], ['尔', 'I_persons']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['七', 'I_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName'], ['理', 'O'], ['疗', 'O'], ['仪', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['号', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['影', 'I_channelName'], ['视', 'I_channelName'], ['1:35', 'B_startTime'], ['的', 'O'], ['九', 'B_name'], ['九', 'I_name']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['金', 'I_channelName'], ['鹰', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['交', 'I_channelName'], ['通', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['今', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['台', 'I_channelName']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['云', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['四', 'B_channelName'], ['川', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName'], ['的', 'O'], ['NBA', 'B_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['环', 'B_name'], ['球', 'I_name'], ['资', 'I_name'], ['讯', 'I_name']]	回看	告知	
+[['刚', 'O'], ['刚', 'O'], ['我', 'O'], ['几', 'O'], ['台', 'O'], ['有', 'O'], ['声', 'O'], ['音', 'O'], ['的', 'O'], ['呀', 'O']]	模糊	询问	
+[['财', 'O'], ['经', 'O']]	模糊	告知	
+[['进', 'O'], ['入', 'O'], ['理', 'B_channelName'], ['财', 'I_channelName'], ['快', 'I_channelName'], ['报', 'I_channelName']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['江', 'B_channelName'], ['西', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['广', 'B_channelName'], ['东', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['频', 'O'], ['道', 'O']]	模糊	告知	
+[['网', 'O'], ['络', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['北', 'O'], ['京', 'O'], ['酒', 'O'], ['吧', 'O']]	模糊	告知	
+[['你', 'O'], ['好', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['湖', 'B_channelName'], ['北', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['那', 'O'], ['一', 'O'], ['套', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['内', 'B_channelName'], ['蒙', 'I_channelName'], ['古', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['内', 'O'], ['蒙', 'O'], ['古', 'O'], ['蒙', 'O'], ['语', 'O']]	模糊	告知	
+[['打', 'O'], ['开', 'O'], ['福', 'O'], ['建', 'O'], ['都', 'O'], ['市', 'O'], ['生', 'O'], ['活', 'O']]	直播	告知	
+[['我', 'O'], ['喜', 'O'], ['欢', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['搜', 'O'], ['索', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['芒', 'B_channelName'], ['果', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['看', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['福', 'B_channelName'], ['建', 'I_channelName'], ['都', 'I_channelName'], ['市', 'I_channelName'], ['生', 'I_channelName'], ['活', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['纪', 'B_category'], ['录', 'I_category'], ['片', 'I_category']]	点播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['荔', 'B_channelName'], ['枝', 'I_channelName'], ['台', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['湖', 'B_channelName'], ['北', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['理', 'B_channelName'], ['财', 'B_channelName'], ['快', 'B_channelName'], ['报', 'B_channelName']]	直播	告知	
+[['能', 'O'], ['不', 'O'], ['能', 'O'], ['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	询问	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['ATV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['15', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['2192','O'], ['台', 'O'], ['电', 'O'], ['话', 'O']]	模糊	告知	
+[['广', 'O'], ['传', 'O']]	模糊	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['听', 'O'], ['四', 'B_channelName'], ['川', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['动', 'B_modifier'], ['作', 'I_modifier']]	点播	告知	
+[['我', 'O'], ['的', 'O'], ['那', 'O'], ['种', 'O'], ['方', 'O'], ['式', 'O'], ['的', 'O'], ['微', 'B_channelName'], ['电', 'I_channelName'], ['影', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	模糊	告知	
+[['我', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['我', 'O'], ['放', 'O'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['农', 'I_channelName'], ['业', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['山', 'B_channelName'], ['东', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['9', 'I_channelName']]	直播	告知	
+[['便', 'O'], ['民', 'O'], ['服', 'O'], ['务', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['7', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['点', 'O'], ['播', 'O']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['芒', 'B_channelName'], ['果', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['4', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['电', 'O'], ['视', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['播', 'O'], ['101', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['有', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['吗', 'O']]	直播	询问	
+[['能', 'O'], ['不', 'O'], ['能', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['二', 'O'], ['频', 'O'], ['道', 'O']]	模糊	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['不', 'O'], ['给', 'O'], ['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	询问	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['8', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['芒', 'B_channelName'], ['果', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['啊', 'O']]	直播	告知	
+[['我', 'O'], ['很', 'O'], ['喜', 'O'], ['欢', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['一', 'O'], ['下', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'O'], ['清', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['汤', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['卫', 'O'], ['视', 'O']]	模糊	告知	
+[['打', 'O'], ['开', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['能', 'O'], ['不', 'O'], ['能', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['12', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['我', 'O'], ['打', 'O'], ['开', 'O'], ['电', 'O'], ['视', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['看', 'O'], ['喜', 'B_category'], ['剧', 'I_category'], ['电', 'I_category'], ['影', 'I_category']]	点播	告知	
+[['第', 'O'], ['一', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['有', 'O'], ['没', 'O'], ['有', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	模糊	询问	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['看', 'O'], ['18', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['湖', 'B_channelName'], ['北', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['帮', 'O'], ['我', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['10', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['快', 'O'], ['打', 'O'], ['开', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['马', 'O'], ['上', 'O'], ['调', 'O'], ['到', 'O'], ['广', 'B_channelName'], ['东', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['20', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['IPTV', 'O']]	模糊	告知	
+[['电', 'O'], ['视', 'O'], ['剧', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['调', 'O'], ['资', 'B_channelName'], ['讯', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['调', 'O'], ['202', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['我', 'O'], ['们', 'O'], ['想', 'O'], ['看', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['一', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['七', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['点', 'O'], ['综', 'B_channelName'], ['合', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['调', 'O'], ['文', 'B_channelName'], ['艺', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['音', 'B_channelName'], ['乐', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['经', 'B_channelName'], ['济', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['价', 'O'], ['格', 'O'], ['服', 'O'], ['务', 'O']]	模糊	告知	
+[['陕', 'O'], ['西', 'O']]	模糊	告知	
+[['播', 'O'], ['放', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['番', 'B_channelName'], ['茄', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['播', 'O'], ['放', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['35', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['综', 'B_channelName'], ['艺', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['荔', 'B_channelName'], ['枝', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['陕', 'B_channelName'], ['西', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['续', 'O'], ['好', 'B_channelName'], ['享', 'I_channelName'], ['购', 'I_channelName']]	直播	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['请', 'O'], ['拨', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['少', 'O'], ['儿', 'O']]	模糊	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['智', 'O'], ['障', 'O']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['五', 'B_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['电', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['文', 'O'], ['化', 'O']]	模糊	告知	
+[['好', 'O'], ['文', 'B_channelName'], ['艺', 'I_channelName'], ['台', 'I_channelName']]	模糊	告知	
+[['我', 'O'], ['喜', 'O'], ['欢', 'O'], ['15', 'B_channelNo'], ['频', 'I_channelNo'], ['道', 'I_channelNo']]	直播	告知	
+[['看', 'O'], ['下', 'O'], ['幼', 'B_channelName'], ['儿', 'I_channelName'], ['教', 'I_channelName'], ['育', 'I_channelName'], ['暂', 'B_cmdValue'], ['停', 'I_cmdValue']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['直', 'O'], ['播', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['看', 'O'], ['电', 'O'], ['视', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['宁', 'B_channelName'], ['夏', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['泾', 'B_channelName'], ['县', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['我', 'O'], ['搜', 'O'], ['资', 'B_channelName'], ['讯', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['套', 'I_channelName'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['8', 'B_startTime'], ['点', 'I_startTime'], ['钟', 'I_startTime']]	回看	告知	
+[['转', 'O'], ['青', 'B_channelName'], ['海', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['第', 'O'], ['三', 'O'], ['方', 'O'], ['节', 'O'], ['目', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['8', 'B_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['2', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['四', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['重', 'B_channelName'], ['庆', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['点', 'O'], ['播', 'O'], ['频', 'O'], ['道', 'O']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['荔', 'B_channelName'], ['枝', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName'], ['的', 'O'], ['体', 'O'], ['育', 'O'], ['频', 'O'], ['道', 'O'], ['不', 'O'], ['对', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['非', 'B_name'], ['诚', 'I_name'], ['勿', 'I_name'], ['扰', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName'], ['放', 'O'], ['不', 'O']]	直播	告知	
+[['最', 'O'], ['近', 'O'], ['乌', 'O'], ['鲁', 'O'], ['木', 'O'], ['齐', 'O'], ['三', 'O'], ['天', 'O'], ['的', 'O'], ['天', 'O'], ['气', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['山', 'B_channelName'], ['东', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['经', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['湖', 'B_channelName'], ['南', 'I_channelName'], ['金', 'I_channelName'], ['鹰', 'I_channelName']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['昨', 'B_startDate'], ['晚', 'B_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['播', 'O'], ['放', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['福', 'B_channelName'], ['建', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['陕', 'B_channelName'], ['西', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['听', 'O'], ['湖', 'B_channelName'], ['北', 'I_channelName'], ['经', 'I_channelName'], ['济', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['听', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['昨', 'B_startDate'], ['晚', 'B_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['母', 'O'], ['婴', 'O']]	模糊	告知	
+[['看', 'O'], ['体', 'B_channelName'], ['育', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['交', 'I_channelName'], ['通', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['6：43', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['11', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['一', 'B_name'], ['路', 'I_name'], ['欢', 'I_name'], ['笑', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['调', 'O'], ['到', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['四', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['打', 'O'], ['开', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['二', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['7', 'I_startTime'], ['点', 'I_startTime'], ['钟', 'I_startTime'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['五', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['现', 'O'], ['在', 'O'], ['想', 'O'], ['看', 'O'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName']]	直播	告知	
+[['来', 'O'], ['一', 'O'], ['首', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['金', 'I_channelName'], ['鹰', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['4', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['大', 'B_name'], ['丈', 'I_name'], ['夫', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['二', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['2:25', 'B_startTime'], ['的', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['30', 'B_startDate'], ['号', 'I_startDate'], ['5:37', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['中', 'B_name'], ['国', 'I_name'], ['民', 'I_name'], ['歌', 'I_name'], ['大', 'I_name'], ['会', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['七', 'B_startTime'], ['点', 'I_startTime']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['7:14', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['文', 'B_name'], ['化', 'I_name'], ['十', 'I_name'], ['分', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['6:43', 'B_startTime'], ['的', 'O'], ['一', 'B_name'], ['路', 'I_name'], ['欢', 'I_name'], ['笑', 'I_name'], ['CCTV', 'B_channelName'], ['11', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['2:25', 'B_startTime'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['上', 'B_startTime'], ['午', 'I_startTime'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O']]	回看	告知	
+[['怎', 'O'], ['么', 'O'], ['high', 'O'], ['啊', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['2:25', 'B_startTime'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['4:13', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['综', 'B_name'], ['艺', 'I_name'], ['喜', 'I_name'], ['乐', 'I_name'], ['汇', 'I_name']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['交', 'O'], ['通', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['七', 'B_startTime'], ['点', 'I_startTime'], ['整', 'I_startTime'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['切', 'O'], ['换', 'O'], ['到', 'O'], ['CCTV', 'B_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['6', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['广', 'B_channelName'], ['州', 'I_channelName'], ['体', 'I_channelName'], ['育', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['4', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['快', 'B_name'], ['乐', 'I_name'], ['大', 'I_name'], ['本', 'I_name'], ['营', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['贵', 'B_channelName'], ['州', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['14', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['电', 'O'], ['视', 'O']]	模糊	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['四', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['很', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['青', 'B_channelName'], ['岛', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['下', 'B_cmdValue'], ['一', 'I_cmdValue'], ['台', 'I_cmdValue'], ['系', 'O'], ['统', 'O']]	指令	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['七', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['11', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['二', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['12', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['13', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['15', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['八', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['16', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['帮', 'O'], ['我', 'O'], ['转', 'O'], ['到', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['女', 'B_name'], ['人', 'I_name'], ['不', 'I_name'], ['坏', 'I_name']]	点播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['喜', 'B_modifier'], ['剧', 'I_modifier']]	点播	告知	
+[['播', 'O'], ['放', 'O'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['新', 'B_channelName'], ['疆', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['广', 'B_channelName'], ['东', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['二', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['二', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['十', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['九', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['一', 'O'], ['下', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CNN', 'B_channelName']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['广', 'B_channelName'], ['东', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['电', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['家', 'O'], ['庭', 'O'], ['影', 'O'], ['院', 'O']]	模糊	告知	
+[['你', 'O'], ['好', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['浙', 'B_channelName'], ['江', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['换', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['切', 'O'], ['到', 'O'], ['CCTV', 'B_channelName']]	直播	告知	
+[['换', 'O'], ['到', 'O'], ['购', 'B_channelName'], ['物', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['想', 'O'], ['看', 'O'], ['广', 'B_channelName'], ['东', 'I_channelName'], ['珠', 'I_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['1', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['春', 'B_name'], ['晚', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['1', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['四', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['8', 'B_startDate'], ['号', 'I_startDate'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['漳', 'B_channelName'], ['州', 'I_channelName'], ['二', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['6', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['调', 'O'], ['台', 'O'], ['广', 'B_channelName'], ['州', 'I_channelName'], ['体', 'I_channelName'], ['育', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['芒', 'B_channelName'], ['果', 'I_channelName'], ['TV', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['给', 'O'], ['力', 'O'], ['一', 'O'], ['点', 'O']]	模糊	告知	
+[['谁', 'O'], ['大', 'O'], ['一', 'O'], ['点', 'O']]	模糊	告知	
+[['声', 'B_cmdValue'], ['音', 'I_cmdValue'], ['大', 'I_cmdValue'], ['一', 'I_cmdValue'], ['点', 'I_cmdValue']]	指令	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['我', 'B_name'], ['是', 'I_name'], ['特', 'I_name'], ['种', 'I_name'], ['兵', 'I_name'], ['之', 'I_name'], ['火', 'I_name'], ['凤', 'I_name'], ['凰', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'],['一', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知		
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2011', 'B_startDate'],['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['17', 'B_startDate'],['日', 'I_startDate'], ['瑞', 'B_channelName'], ['安', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['焦', 'B_name'], ['点', 'I_name'], ['访', 'I_name'], ['谈', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['号', 'I_startDate'], ['8:59', 'B_startTime'], ['迈', 'B_name'], ['乐', 'I_name'], ['学', 'I_name'], ['堂', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['非', 'B_name'], ['诚', 'I_name'], ['勿', 'I_name'], ['扰', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['前', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2011', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['17', 'B_startDate'],['日', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['火', 'B_name'], ['凤', 'I_name'], ['凰', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['女', 'B_videoName'], ['人', 'I_videoName'], ['不', 'I_videoName'], ['坏', 'I_videoName']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['12:37', 'B_startTime'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['点', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['2', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['号', 'I_startDate'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['为', 'O'], ['什', 'O'], ['么', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['看', 'O'], ['错', 'O'], ['了', 'O'], ['李', 'O'], ['在', 'O'], ['真', 'O'], ['的', 'O'], ['诗', 'B_channelName'], ['泰', 'I_channelName'], ['安', 'I_channelName'], ['电', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2012', 'B_startDate'], ['年', 'I_startDate'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['音', 'I_channelName'], ['乐', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['中', 'B_channelName'], ['央', 'B_channelName'], ['一', 'B_channelName'], ['台', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['八', 'B_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['声', 'B_cmdValue'], ['音', 'I_cmdValue'], ['小', 'I_cmdValue'], ['一', 'I_cmdValue'], ['点', 'I_cmdValue']]	指令	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['16', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['14', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['很', 'O'], ['喜', 'O'], ['欢', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['今', 'B_startDate'], ['晚', 'B_startTime'], ['月', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['看', 'O'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['节', 'O'], ['目', 'O'], ['单', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['昆', 'B_name'], ['仑', 'I_name'], ['决', 'I_name']]	回看	告知	
+[['回', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['帮', 'O'], ['我', 'O'], ['查', 'O'], ['一', 'O'], ['下', 'O'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['日', 'O'], ['程', 'O']]	模糊	告知	
+[['央', 'O'], ['视', 'O'], ['微', 'O']]	模糊	告知	
+[['我', 'O'], ['喜', 'O'], ['欢', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['焦', 'B_name'], ['点', 'I_name'], ['访', 'I_name'], ['谈', 'I_name']]	回看	告知	
+[['学', 'O'], ['校', 'O'], ['明', 'B_startDate'], ['天', 'I_startDate'], ['9', 'B_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['李', 'B_persons'], ['晨', 'I_persons'], ['提', 'O'], ['醒', 'O']]	模糊	告知	
+[['还', 'O'], ['有', 'O'], ['什', 'O'], ['么', 'O'], ['节', 'O'], ['目', 'O'], ['可', 'O'], ['以', 'O'], ['听', 'O']]	模糊	询问	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['播', 'O'], ['放', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['七', 'B_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName'], ['九', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['5:10', 'B_startTime'], ['的', 'O'], ['熊', 'B_name'], ['出', 'I_name'], ['没', 'I_name']]	回看	告知	
+[['昨', 'B_startDate'], ['晚', 'B_startTime']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['回', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['12', 'B_startTime'], ['点', 'I_startTime'], ['三', 'I_startTime'], ['十', 'I_startTime'], ['七', 'I_startTime'], ['分', 'I_startTime'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['直', 'O'], ['播', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['进', 'O'], ['入', 'O'], ['回', 'O'], ['看', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['台', 'I_channelName'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['8', 'B_startTime'], ['点', 'I_startTime'], ['钟', 'I_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['七', 'I_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName'], ['理', 'O'], ['疗', 'O'], ['仪', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['4', 'B_startDate'], ['号', 'I_startDate'], ['六', 'B_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['熊', 'B_name'], ['出', 'I_name'], ['没', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['号', 'I_startDate'], ['优', 'B_channelName'], ['漫', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName']]	回看	告知	
+[['10', 'B_startDate'], ['月', 'I_startDate'], ['电', 'B_category'], ['影', 'I_category']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['影', 'I_channelName'], ['视', 'I_channelName'], ['1:35', 'B_startTime'],['的', 'O'], ['九', 'B_name'], ['九', 'I_name']]	回看	告知	
+[['节', 'O'], ['目', 'O'], ['列', 'O'], ['表', 'O']]	模糊	告知	
+[['现', 'O'], ['在', 'O'], ['在', 'O'], ['重', 'O'], ['点', 'O'], ['催', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName'], ['的', 'O'], ['NBA', 'B_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['南', 'B_channelName'], ['京', 'I_channelName'], ['新', 'I_channelName'], ['闻', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['环', 'B_name'], ['球', 'I_name'], ['资', 'I_name'], ['讯', 'I_name']]	回看	告知	
+[['你', 'O'], ['现', 'O'], ['在', 'O'], ['打', 'O'], ['车', 'O']]	模糊	告知	
+[['爱', 'O'], ['你', 'O'], ['这', 'O'], ['个', 'O'], ['周', 'O'], ['末', 'O']]	模糊	告知	
+[['你', 'O'], ['今', 'B_startDate'], ['晚', 'B_startTime'], ['更', 'O'], ['新', 'O'], ['版', 'O'], ['本', 'O'], ['吗', 'O']]	模糊	告知	
+[['嗯', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['5', 'B_startDate'], ['号', 'I_startDate'], ['3:16', 'B_startTime']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['3', 'B_startDate'], ['日', 'I_startDate']]	回看	告知	
+[['刚', 'O'], ['刚', 'O'], ['我', 'O'], ['几', 'O'], ['台', 'O'], ['有', 'O'], ['声', 'O'], ['音', 'O'], ['的', 'O'], ['呀', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['七', 'B_startTime'], ['点', 'I_startTime'], ['新', 'O'], ['闻', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['进', 'O'], ['入', 'O'], ['理', 'B_name'], ['财', 'I_name'], ['快', 'I_name'], ['报', 'I_name']]	回看	告知	
+[['上', 'O'], ['个', 'O'], ['星', 'O'], ['期', 'O']]	模糊	告知	
+[['昨', 'B_startDate'], ['天', 'I_startDate'], ['刚', 'O'], ['刚', 'O'], ['开', 'O'], ['始', 'O']]	模糊	告知	
+[['打', 'O'], ['开', 'O'], ['福', 'B_channelName'], ['建', 'I_channelName'], ['都', 'I_channelName'], ['市', 'I_channelName'], ['生', 'I_channelName'], ['活', 'I_channelName']]	直播	告知	
+[['周', 'O'], ['末', 'O']]	模糊	告知	
+[['回', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['看', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['福', 'B_channelName'], ['建', 'I_channelName'], ['都', 'I_channelName'], ['市', 'I_channelName'], ['生', 'I_channelName'], ['活', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['一', 'O'], ['下', 'O'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	模糊	告知	
+[['节', 'O'], ['目', 'O']]	模糊	告知	
+[['看', 'O'], ['看', 'O'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	模糊	告知	
+[['播', 'O'], ['放', 'O'], ['时', 'O'], ['间', 'O']]	模糊	告知	
+[['综', 'B_category'], ['艺', 'I_category'], ['节', 'I_category'], ['目', 'I_category']]	点播	告知	
+[['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['影', 'I_category']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate']]	点播	告知	
+[['2015', 'B_startDate'], ['年', 'I_startDate'], ['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['影', 'I_category']]	模糊	告知	
+[['2010', 'B_startDate'], ['年', 'I_startDate'], ['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['视', 'I_category'], ['剧', 'I_category']]	模糊	告知	
+[['打', 'O'], ['开', 'O'], ['电', 'O'], ['视', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['有', 'O'], ['中', 'O'], ['央', 'O'], ['一', 'O'], ['套', 'O'], ['吗', 'O']]	直播	询问	
+[['韩', 'O'], ['国', 'O'], ['最', 'O'], ['新', 'O'], ['的', 'O'], ['综', 'B_category'], ['艺', 'I_category'], ['节', 'I_category'], ['目', 'I_category']]	点播	告知	
+[['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['视', 'I_category'], ['剧', 'I_category']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['12', 'I_channelName']]	直播	告知	
+[['给', 'O'], ['我', 'O'], ['打', 'O'], ['开', 'O'], ['电', 'O'], ['视', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['喜', 'B_modifier'], ['剧', 'I_modifier'], ['电', 'B_category'], ['影', 'I_category']]	点播	告知	
+[['2010', 'B_startDate'], ['年', 'I_startDate'], ['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['影', 'I_category']]	模糊	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['中', 'I_startTime'], ['午', 'I_startTime'], ['的', 'O'], ['非', 'B_name'], ['诚', 'I_name'], ['勿', 'I_name'], ['扰', 'I_name']]	回看	告知	
+[['哪', 'O'], ['个', 'O'], ['台', 'O'], ['在', 'O'], ['放', 'O'], ['青', 'B_modifier'], ['春', 'I_modifier'], ['电', 'B_category'], ['影', 'I_category']]	点播	询问	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'I_channelName'], ['目', 'I_channelName']]	回看	告知	
+[['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['北', 'B_channelName'], ['京', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'I_channelName'], ['目', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['收', 'O'], ['藏', 'O'], ['节', 'O'], ['目', 'O']]	模糊	告知	
+[['直', 'O'], ['播', 'O'], ['穿', 'O'], ['越', 'O']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	回看	告知	
+[['中', 'B_startTime'], ['午', 'I_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	模糊	告知	
+[['回', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['天', 'O'], ['气', 'O'], ['视', 'O'], ['频', 'O'], ['通', 'O'], ['话', 'O']]	模糊	告知	
+[['播', 'O'], ['理', 'B_name'], ['财', 'I_name'], ['快', 'I_name'], ['报', 'I_name']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['回', 'O'], ['看', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['2015', 'B_startDate'], ['年', 'I_startDate'], ['10', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['视', 'I_category'], ['剧', 'I_category']]	模糊	告知		
+[['打', 'O'], ['开', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['请', 'O'], ['拨', 'O']]	直播	告知	
+[['王', 'B_persons'], ['晶', 'I_persons'], ['2010', 'B_startDate'], ['年', 'I_startDate'], ['8', 'B_startDate'], ['月', 'I_startDate'], ['的', 'O'], ['电', 'B_category'], ['影', 'I_category']]	模糊	告知	
+[['看', 'O'], ['下', 'O'], ['幼', 'B_name'], ['儿', 'I_name'], ['教', 'I_name'], ['育', 'I_name'], ['暂', 'B_cmdValue'], ['停', 'I_cmdValue']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['直', 'O'], ['播', 'O'], ['频', 'O'], ['道', 'O']]	直播	告知	
+[['体', 'B_name'], ['彩', 'I_name'], ['快', 'I_name'], ['报', 'I_name'], ['打', 'O'], ['开', 'O'], ['理', 'B_name'], ['财', 'I_name'], ['快', 'I_name'], ['报', 'I_name']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['回', 'O'], ['看', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['今', 'B_startDate'], ['天', 'I_startDate'], ['8', 'B_startTime'], ['点', 'I_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['最', 'O'], ['近', 'O'], ['花', 'I_videoName'], ['悸', 'I_videoName']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName'], ['的', 'O'], ['体', 'O'], ['育', 'O'], ['频', 'O'], ['道', 'O'], ['不', 'O'], ['对', 'O']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['非', 'B_name'], ['诚', 'I_name'], ['勿', 'I_name'], ['扰', 'I_name']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName'], ['放', 'O'], ['不', 'O']]	直播	询问	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['回', 'O'], ['看', 'O'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['昨', 'B_startDate'], ['晚', 'B_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['回', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['昨', 'B_startDate'], ['晚', 'B_startTime'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['6:43', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['11', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['一', 'B_name'], ['路', 'I_name'], ['欢', 'I_name'], ['笑', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['联', 'B_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['7', 'I_startTime'], ['点', 'I_startTime'], ['钟', 'I_startTime'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['30', 'B_startDate'], ['号', 'I_startDate'], ['0:43', 'B_startTime'], ['的', 'O'], ['综', 'B_name'], ['艺', 'I_name'], ['喜', 'I_name'], ['乐', 'I_name'], ['汇', 'I_name']]	回看	告知	
+[['切', 'O'], ['换', 'O'], ['到', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['金', 'I_channelName'], ['鹰', 'I_channelName'], ['卡', 'I_channelName'], ['通', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['大', 'B_name'], ['丈', 'I_name'], ['夫', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['二', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['2:25', 'B_startTime'], ['的', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['早', 'B_startTime'], ['上', 'I_startTime'], ['8', 'I_startTime'], ['点', 'I_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['30', 'B_startDate'], ['号', 'I_startDate'], ['5:37', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['中', 'B_name'], ['国', 'I_name'], ['民', 'I_name'], ['歌', 'I_name'], ['大', 'I_name'], ['会', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['七', 'B_startTime'], ['点', 'I_startTime']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['7:14', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['文', 'B_name'], ['化', 'I_name'], ['十', 'I_name'], ['分', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['6:43', 'B_startTime'], ['的', 'O'], ['一', 'B_name'], ['路', 'I_name'], ['欢', 'I_name'], ['笑', 'I_name'], ['CCTV', 'B_channelName'], ['11', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['22', 'B_startTime'], ['点', 'I_startTime']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['一', 'B_channelNo'], ['台', 'I_channelNo'], ['频', 'O'], ['道', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['2:25', 'B_startTime'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['上', 'B_startTime'], ['午', 'I_startTime'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['频', 'O'], ['道', 'O'], ['的', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['3', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['2:25', 'B_startTime'], ['的', 'O'], ['太', 'B_name'], ['行', 'I_name'], ['英', 'I_name'], ['雄', 'I_name'], ['传', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['4:13', 'B_startTime'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['综', 'B_name'], ['艺', 'I_name'], ['喜', 'I_name'], ['乐', 'I_name'], ['汇', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['10', 'B_startDate'], ['号', 'I_startDate'], ['七', 'B_startTime'], ['点', 'I_startTime'], ['整', 'I_startTime'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['快', 'B_name'], ['乐', 'I_name'], ['大', 'I_name'], ['本', 'I_name'], ['营', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['女', 'B_videoName'], ['人', 'I_videoName'], ['不', 'I_videoName'], ['坏', 'I_videoName']]	点播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['电', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['9', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['1', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['春', 'B_name'], ['晚', 'I_name']]	回看	告知	
+[['小', 'O'], ['翼', 'O'], ['小', 'O'], ['翼', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['1', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['1', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['8', 'B_startDate'], ['日', 'I_startDate'], ['央', 'B_channelName'], ['视', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['日', 'I_startDate'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['8', 'B_startDate'], ['号', 'I_startDate'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['六', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['影', 'B_channelName'], ['视', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['2', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['小', 'O'], ['翼', 'O'], ['小', 'O'], ['翼', 'O'], ['我', 'O'], ['要', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2011', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['17', 'B_startDate'], ['日', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['7', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['多', 'O']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['13', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['高', 'O'], ['清', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['电', 'O'], ['视', 'O']]	模糊	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['湖', 'B_channelName'], ['北', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['火', 'B_name'], ['凤', 'I_name'], ['凰', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['6', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['电', 'B_channelName'], ['影', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['资', 'B_channelName'], ['讯', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['小', 'O'], ['翼', 'O'], ['小', 'O'], ['翼', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['女', 'B_videoName'], ['人', 'I_videoName'], ['不', 'I_videoName'], ['坏', 'I_videoName']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['十', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['资', 'B_channelName'], ['讯', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['音', 'B_channelName'], ['乐', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['十', 'I_channelName'], ['二', 'I_channelName'], ['十', 'B_startTime'], ['二', 'I_startTime'], ['点', 'I_startTime'], ['37', 'I_startTime'], ['分', 'I_startTime'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['文', 'B_channelName'], ['艺', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['12:37', 'B_startTime'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['CCTV', 'B_channelName'], ['音', 'I_channelName'], ['乐', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['点', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['你', 'O'], ['好', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['2018', 'B_startDate'], ['年', 'I_startDate'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['号', 'I_startDate'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['为', 'O'], ['什', 'O'], ['么', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['天', 'O'], ['天', 'O'], ['精', 'O'], ['选', 'O'], ['歌', 'O']]	模糊	告知	
+[['打', 'O'], ['开', 'O'], ['v', 'B_channelName'], ['音', 'I_channelName'], ['乐', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['5', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['看', 'O'], ['错', 'O'], ['了', 'O'], ['李', 'O'], ['在', 'O'], ['真', 'O'], ['的', 'O'], ['诗', 'B_channelName'], ['泰', 'I_channelName'], ['安', 'I_channelName'], ['电', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['TVB', 'B_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2012', 'B_startDate'], ['年', 'I_startDate'], ['3', 'B_startDate'], ['月', 'I_startDate'], ['1', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['音', 'I_channelName'], ['乐', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['CCTV', 'B_channelName'], ['1', 'I_channelName'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['喜', 'B_modifier'], ['剧', 'I_modifier']]	点播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['2017', 'B_startDate'], ['年', 'I_startDate'], ['7', 'B_startDate'], ['月', 'I_startDate'], ['18', 'B_startDate'], ['日', 'I_startDate'], ['八', 'B_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['12', 'B_startTime'], ['点', 'I_startTime'], ['37', 'I_startTime'], ['分', 'I_startTime'], ['的', 'O'], ['今', 'B_name'], ['日', 'I_name'], ['说', 'I_name'], ['法', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['查', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['的', 'O'], ['CCTV', 'B_channelName'], ['的', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['联', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['13', 'O'], ['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['14', 'I_channelName']]	直播	告知	
+[['一', 'B_channelName'], ['六', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['27', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	回看	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['25', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['节', 'O'], ['目', 'O'], ['单', 'O']]	回看	告知	
+[['电', 'O'], ['视', 'O']]	模糊	告知	
+[['小', 'O'], ['翼', 'O'], ['小', 'O'], ['翼', 'O'], ['打', 'O'], ['开', 'O'], ['CCTV', 'B_channelName'], ['一', 'I_channelName']]	直播	告知	
+[['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['ATV', 'B_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['看', 'O'], ['芒', 'B_channelName'], ['果', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['很', 'O'], ['喜', 'O'], ['欢', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['地', 'B_channelName'], ['方', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['昨', 'B_startDate'], ['天', 'I_startDate'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['台', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	回看	告知	
+[['打', 'O'], ['开', 'O'], ['新', 'B_name'], ['闻', 'I_name'], ['轮', 'I_name'], ['播', 'I_name']]	回看	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['凤', 'B_channelName'], ['凰', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName']]	直播	告知	
+[['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['直', 'O'], ['播', 'O']]	直播	告知	
+[['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['看', 'O'], ['2', 'B_startDate'], ['月', 'I_startDate'], ['24', 'B_startDate'], ['号', 'I_startDate'], ['的', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	回看	告知	
+[['应', 'O'], ['用', 'O'], ['山', 'O'], ['酒', 'O'], ['店', 'O'], ['建', 'O'], ['国', 'O'], ['想', 'O'], ['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['去', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['五', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['的', 'O'], ['昆', 'B_name'], ['仑', 'I_name'], ['决', 'I_name']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['经', 'B_channelName'], ['济', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['江', 'B_channelName'], ['苏', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['回', 'O'], ['看', 'O'], ['昨', 'B_startDate'], ['天', 'I_startDate'], ['晚', 'B_startTime'], ['上', 'I_startTime'], ['安', 'B_channelName'], ['徽', 'I_channelName'], ['频', 'I_channelName'], ['道', 'I_channelName'], ['的', 'O'], ['节', 'O'], ['目', 'O']]	回看	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['文', 'B_channelName'], ['艺', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['央', 'O'], ['视', 'O'], ['微', 'O']]	模糊	告知	
+[['播', 'O'], ['放', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['喜', 'O'], ['欢', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['中', 'O'], ['央', 'O'], ['台', 'O'], ['列', 'O'], ['表', 'O']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['听', 'O'], ['珠', 'B_channelName'], ['江', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['想', 'O'], ['看', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['三', 'I_channelName'], ['套', 'I_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['看', 'O'], ['东', 'B_channelName'], ['方', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName']]	直播	告知	
+[['农', 'O'], ['场', 'O']]	模糊	告知	
+[['看', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['卫', 'I_channelName'], ['视', 'I_channelName'], ['高', 'I_channelName'], ['清', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['交', 'B_channelName'], ['通', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['打', 'O'], ['开', 'O'], ['播', 'O'], ['CCTV', 'B_channelName']]	直播	告知	
+[['我', 'O'], ['要', 'O'], ['听', 'O'], ['湖', 'B_channelName'], ['南', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['点', 'O'], ['中', 'B_channelName'], ['央', 'I_channelName'], ['台', 'I_channelName']]	直播	告知	
+[['中', 'B_channelName'], ['央', 'I_channelName'], ['一', 'I_channelName'], ['套', 'I_channelName'], ['直', 'O'], ['播', 'O']]	直播	告知	
+[['给', 'O'], ['我', 'O'], ['看', 'O'], ['CCTV', 'B_channelName'], ['6', 'I_channelName']]	直播	告知

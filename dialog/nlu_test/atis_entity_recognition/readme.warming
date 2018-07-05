@@ -1,0 +1,12 @@
+By NXG(Primtee)
+    We use the named Joint Modeling method for entity recognition and intent detection. This to say,wo used only
+model to labeling the slot as well as detecting the intent of the specific task.
+    We used the Bi_LSTM to modeling our model. Wo just concat each time output of the forward and back forward
+of the the cell(we used LSTMCell, but can also use the basicLSTM cell), and then each time concat forward to crf
+the for slot recognition.The output of crf layer is a set of indexes of the slots. Example, assumed the row text is
+'BOS flights from ontario to florida EOS'(from atis),then the output of crf layer is [0, 0, 0, 1, 0, 2, 0], then we
+quickly lookup the dict of all slots and finally find that '0' means nothing, '1' is the index of a slot named
+'B-fromloc.city_name', and '2' is the index of 'B-toloc.city_name'. So we get all slots and the corresponding row word of
+the original input, obviously,'{{'B-fromloc.city_name': 'ontario'}, {'B-toloc.city_name': 'florida'}}'.
+    For intent detection, wo just used the last time concat output of forward and back forward direction of Bi_LSTM to
+predict the correct intent of the row text.
