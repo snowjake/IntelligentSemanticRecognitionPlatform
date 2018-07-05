@@ -2,7 +2,7 @@ class Dictionry:
     def __init__(self, task):
         self.replay_slot = ['channelname', 'data', 'time', 'program']
         self.live_slot = ['channelname']
-        self.order_slot = ['videoName','category','modifier','person']
+        self.order_slot = ['videoName','category','modifier','area']
         self.cmd_slot=['cmdValue','cmdParam']
         self.dictory = self.inint_dictory(task)
 

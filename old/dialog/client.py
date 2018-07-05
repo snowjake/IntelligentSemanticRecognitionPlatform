@@ -34,7 +34,7 @@ i=0
 flag=1
 sever=1
 while flag:      #与人交互，输入命令
-       messageto_sends=replaytask[np.random.randint(0, len(replaytask))]
+       messageto_sends=total[np.random.randint(0, len(total))]
        s.send(json.dumps(messageto_sends).encode())      #把命令发送给对端
        data=s.recv(1024)     #把接收的数据定义为变量
        if data.decode() =='done':

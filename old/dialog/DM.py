@@ -23,10 +23,11 @@ class DM:
             self.model = self.model(self.wights, self.naction)
         if self.task == 'live':
             self.dictory = Dictionry(self.task)
+            self.wights = 'live.h5'
             self.state_tacker = state_tacker(self.dictory.dictory)
             self.naction = len(self.state_tacker.state)
             self.model = self.model(self.wights, self.naction)
-            self.wights = 'order.h5'
+
         if self.task=='cmd':
             self.dictory = Dictionry(self.task)
             self.state_tacker = state_tacker(self.dictory.dictory)
@@ -45,7 +46,7 @@ class DM:
 
     def model(self, weight, naction):
         model = Sequential()
-        model.add(Dense(24, input_dim=4, activation='relu'))
+        model.add(Dense(24, input_dim=naction, activation='relu'))
         model.add(Dense(24, activation='relu'))
         model.add(Dense(naction, activation='linear'))
         model.load_weights(weight)
