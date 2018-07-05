@@ -1,6 +1,4 @@
 from task.task import SingleTask, MultiTask
-from nlg.nlg import NLG
-from nlu.nlu import NLU
 from task.config import Config
 
 
@@ -28,4 +26,15 @@ class TaskManagement(object):
             if self.task == None or self.task.task_id != 2:
                 self.task = MultiTask(Config.configs[2])
             action, terminate = self.task.step(self.task.format_slots(nlu_outputs))
-            return self.nlg.generate_sentence(action=action, terminate=terminate, task_id=self.task.task_id)
+            return self.nlg.generate_sentence(action=action, terminate=terminate, task_id=self.task.task_id), terminate
+        elif nlu_outputs['task_id'] == 3:
+            # 如果当前无其他任务，或者在执行其他任务
+            # 立即终止上一个任务，开始任务3
+            if self.task == None or self.task.task_id != 3:
+                self.task = MultiTask(Config.configs[3])
+            action, terminate = self.task.step(self.task.format_slots(nlu_outputs))
+            return self.nlg.generate_sentence(action=action, terminate=terminate, task_id=self.task.task_id), terminate
+        elif nlu_outputs['task_id'] == 4:
+
+            pass
+

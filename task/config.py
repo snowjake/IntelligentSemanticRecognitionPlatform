@@ -12,7 +12,11 @@ class Config(object):
             'state_dim': 4,
             'action_dim': 4,
             'state_shape': 4,
-            'slots_to_index': {'channel_name': 0}
+            'slots_to_index': {'channel_name': 0,
+                               'date': 1,
+                               'time': 2,
+                               'program_name': 3
+                              }
         },
         3: {
             'terminal_state': [[1, 1, 1, 1]],
@@ -20,7 +24,10 @@ class Config(object):
             'state_dim': 4,
             'action_dim': 4,
             'state_shape': 4,
-            'slots_to_index': {'channel_name': 0}
+            'slots_to_index': {'category': 0,
+                               'type': 1,
+                               'area': 2,
+                               'year': 3}
         },
         4: {
             'terminal_state': [],
