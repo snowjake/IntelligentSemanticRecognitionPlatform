@@ -26,7 +26,7 @@ class NetConfig:
         self.cat2id_id2cat_path = '../data/cat2id_id2cat/cat2id_id2cat.pkl'
         self.word2id_in2word_path = '../data/word2id_in2word/word2id_in2word.pkl'
 
-        self.model_path = '../checkpoints/params.model-580'
+        self.model_path = '../checkpoints/params.model-551'
         # self.fea = '../train_pro/feature_map/feature.fea'  # 特征文件
         self.sentence_length = 100  # maximum length of a signal sentence
         self.word_dim = 64  # the dim of each word, which defined in the network file.
@@ -54,7 +54,7 @@ class NetConfig:
         self.get_cat()
         self.get_vocab()  # can be optimised
         # self.model = TxtModel(vocabu=len(self._index2word))
-        self.model = TxtModel(vocabu=391)
+        self.model = TxtModel(vocabu=389)
         self.model.create_model()  # load the net params
         self.session = tf.Session()
         # self.session.run(tf.global_variables_initializer())

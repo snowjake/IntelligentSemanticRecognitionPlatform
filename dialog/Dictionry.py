@@ -1,8 +1,9 @@
 class Dictionry:
     def __init__(self, task):
-        self.replay_slot = ['channelName', 'startDate', 'time', 'name']
+        self.replay_slot = ['channelName', 'startDate', 'startTime', 'name']
         self.live_slot = ['channelname']
-        self.order_slot = ['videoName','category','modifier','area']
+        self.order_slot = ['videoName','category','modifier','area','persons',
+                           'season','episode','startyear','endyear']
         self.cmd_slot=['cmdValue','cmdParam']
         self.dictory = self.inint_dictory(task)
 
@@ -14,7 +15,7 @@ class Dictionry:
             self.dictory = {j: i for i, j in enumerate(self.live_slot)}
 
             self.action = {i: j for i, j in enumerate(self.live_slot)}
-        if task == 'order':
+        if task == 'dianbo':
             self.dictory = {j: i for i, j in enumerate(self.order_slot)}
             self.action = {i: j for i, j in enumerate(self.order_slot)}
         if task == 'cmd':

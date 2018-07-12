@@ -110,6 +110,31 @@ class NLU(object):
         self.model_same_path = self.config.get_root_data_path.__add__('model_save/checkpoints/')
         self.huikan_slot_check = SlotValueCheck()  # 对回看槽的合法性的判断。并不做逻辑上的反馈。
         self.slot_mapping = SlotLazyMapping()  # 槽的映射 任务/槽
+        self.init()
+
+    def init(self):
+        self.model = Bi_LSTM_Crf(self.config,
+                            self.embeddings,
+                            self.tang2index,
+                            self.word2id,
+                            self.model_same_path,
+                            self.intent2id,
+                            self.index2tang,
+                            self.id2intent
+                            )
+        self.model.build_graph()
+
+        self.sess = tf.InteractiveSession()
+        saver = tf.train.Saver()
+        # 加载 intent detection 和 slot recognition模型参数
+        ckpt_file = tf.train.latest_checkpoint(self.config.get_root_data_path.__add__('model_save/checkpoints/'))
+        saver.restore(self.sess, ckpt_file)
+        # with tf.Session() as sess:
+        #     saver = tf.train.Saver()
+        #     # 加载 intent detection 和 slot recognition模型参数
+        #     ckpt_file = tf.train.latest_checkpoint(self.config.get_root_data_path.__add__('model_save/checkpoints/'))
+        #     saver.restore(sess, ckpt_file)
+
 
     def predict(self):
         model = Bi_LSTM_Crf(self.config,
@@ -141,7 +166,7 @@ class NLU(object):
                     receve_data, addr = receive_s.recvfrom(1024)
                     receve_data = json.loads(receve_data.decode())
                     # intent detection & slot recognition results
-                    tag = [model.task_intent_slots(sess, row_text), receve_data["task_res"]]
+                    tag = [self.model.task_intent_slots(self.sess, row_text), receve_data["task_res"]]
                     slots_intent, task = tag[0], tag[1]
                     slots, intent = slots_intent[0], slots_intent[1]
                     print('task intent slots:', (task, intent, slots))
@@ -173,22 +198,7 @@ class NLU(object):
                     return marged_slot
 
     def rwa_to_slots(self, raw_text):
-        model = Bi_LSTM_Crf(self.config,
-                            self.embeddings,
-                            self.tang2index,
-                            self.word2id,
-                            self.model_same_path,
-                            self.intent2id,
-                            self.index2tang,
-                            self.id2intent
-                            )
-        model.build_graph()
-
-        with tf.Session() as sess:
-            saver = tf.train.Saver()
-            # 加载 intent detection 和 slot recognition模型参数
-            ckpt_file = tf.train.latest_checkpoint(self.config.get_root_data_path.__add__('model_save/checkpoints/'))
-            saver.restore(sess, ckpt_file)
+        # with tf.Session() as sess:
             # task detect result
             row_text = self.filter_rule.cut_sentence(raw_text)
             # receive_s.sendto(json.dumps({'row_text': row_text.strip().split()}).encode(), (host, 50007))
@@ -196,7 +206,7 @@ class NLU(object):
             receve_data, addr = receive_s.recvfrom(1024)
             receve_data = json.loads(receve_data.decode())
             # intent detection & slot recognition results
-            tag = [model.task_intent_slots(sess, row_text), receve_data["task_res"]]
+            tag = [self.model.task_intent_slots(self.sess, row_text), receve_data["task_res"]]
             slots_intent, task = tag[0], tag[1]
             slots, intent = slots_intent[0], slots_intent[1]
             print('task intent slots:', (task, intent, slots))
